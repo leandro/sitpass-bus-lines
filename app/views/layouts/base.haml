@@ -1,0 +1,17 @@
+!!! Strict
+%html
+  %head
+    %title= "Linhas de Ônibus em Goiânia" + (@title ? " / #{@title}" : "")
+    %meta{:'http-equiv' => 'Content-Type', :content => 'text/html; charset=UTF-8'}
+    %meta{:'http-equiv' => 'Content-Style-Type', :content => 'text/css'}
+    %meta{:'http-equiv' => 'Content-Language', :content => 'pt-BR'}
+    %meta{:name => 'author', :content => 'Leandro Nascimento Camargo'}
+    = javascript_include_tag :defaults
+    = stylesheet_link_tag "estilo", :media => 'all'
+  - bodyattrs = @body_id ? {:id => @body_id} : {}
+  %body{bodyattrs}
+    #geral
+      #topo
+        %h1.notext
+          =link_to 'Orientec Negócios Empresariais e Imobiliários', :controller => 'principal'
+        %hr

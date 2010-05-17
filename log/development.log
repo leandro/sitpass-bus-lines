@@ -10457,3 +10457,7 @@ Migrating to ImportBusLinesData (20100517050730)
 [0m
   [4;36;1mSQL (0.5ms)[0m   [0;1mPRAGMA index_list("bus_line_places")[0m
   [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("bus_lines")[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-05-17 02:20:08) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
