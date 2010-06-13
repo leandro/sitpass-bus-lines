@@ -10461,3 +10461,11 @@ Migrating to ImportBusLinesData (20100517050730)
 
 Processing MainController#index (for 127.0.0.1 at 2010-05-17 02:20:08) [GET]
 Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-06-13 18:13:18) [GET]
+
+ActionView::MissingTemplate (Missing template main/index.erb in view path app/views):
+  haml (2.2.19) rails/./lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering rescues/layout (internal_server_error)
