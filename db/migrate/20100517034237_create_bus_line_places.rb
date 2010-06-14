@@ -5,6 +5,7 @@ class CreateBusLinePlaces < ActiveRecord::Migration
       t.string :logradouro, :size => 35
       t.integer :order, :size => 35
       t.integer :bus_line_id
+      t.boolean :ida, :null => false, :default => 1
       t.timestamps
 
       t.index :bairro

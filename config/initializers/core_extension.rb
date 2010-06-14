@@ -17,11 +17,11 @@ class String
   SPECIAL_CHARS = ["\\","^","-","]"] # Any character except \^-] add that character to the possible matches. 
 
   def slugfy_words
-    r = ""
+    r = []
     self.split(/\s+/).each do |e|
       r << e.slugfy(:allow_chars => "-_.")
     end
-    return r
+    return r.join(" ")
   end
 
   def slugfy(options = {})
