@@ -1,13 +1,20 @@
 class ImportBusLinesData < ActiveRecord::Migration
   def self.up
     f = File.open(File.join(Rails.root, 'db', 'data', 'bus-lines-data.txt'), 'r')
-    bus_lines = eval(f.read)
 
-    bus_lines.each do |line|
-      bus_line = BusLine.create(:code => line[:code], :name => line[:name])
-
-      line[:places].each do |place|
-        BusLinePlace.create(:bus_line_id => bus_line.id, :bairro => place[1], :logradouro => place.first, :ida => place.last == 0)
+    bus_line = nil
+    f.readlines.each do |line|
+      split = line.split('||')
+      next if split.size < 2
+      if split.size == 3
+        BusLinePlace.create(
+          :bus_line_id => bus_line.id,
+          :bairro => split[1],
+          :logradouro => split.first,
+          :ida => split.last.to_i == 0
+        )
+      else
+        bus_line = BusLine.create(:code => line[:code], :name => line[:name])
       end
     end
   end
