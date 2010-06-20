@@ -38,7 +38,6 @@ Rua Florianópolis||St. Central||1
 Rua Recife||St. Central||1
 Av. Emilio Póvoa||St. Central||1
 Av. Gonzaga Jaime||St. Central||1
-
 608.1||Alto Paraíso / T. Bandeiras
 Av. Anhanguera||Jd. Europa||0
 Av. Anhanguera||Jd. Europa||0
@@ -69,7 +68,6 @@ Av. Juscelino Kubitschek||Jd. Alto Paraíso||1
 Av. Cesar Lates||Jd. Alto Paraíso||1
 Av. dos Alpes||Jd. Alto Paraíso||1
 T. Bandeiras||Jd. Alto Paraíso||1
-
 325||Aruanã / Flamboyant
 Rua Capauan||Conj. Aruanã III||0
 Av. Acary Passos||Conj. Aruanã III||0
@@ -122,7 +120,6 @@ Av. Acary Passos||Jd. Goiás||1
 Rua Urucará||Jd. Goiás||1
 Rua Aritana||Jd. Goiás||1
 Rua Capauan||Jd. Goiás||1
-
 257||Aruanã II / St. Universitário / Centro
 Av. Aruanã||Conj. Aruanã II||0
 Rua Rio das Garças||Conj. Aruanã II||0
@@ -177,7 +174,6 @@ Av. Gameleira||St. Central||1
 Av. Gameleira||St. Central||1
 Av. Rio das Garças||St. Central||1
 Av. Aruanã||St. Central||1
-
 261||Aruanã III / Centro via Res. Olinda
 Rua Capauan||Conj.  Aruanã III||0
 Av. Acary Passos||Conj.  Aruanã III||0
@@ -221,7 +217,6 @@ Av. Acary Passos||St. Central||1
 Rua Urucará||St. Central||1
 Rua Aritana||St. Central||1
 Rua Capauan||St. Central||1
-
 253||Aruanã III / Riviera / Centro
 Rua Capuan||Conj. Hab. Aruanã III||0
 Av. Acary Passo||Conj. Hab. Aruanã III||0
@@ -259,7 +254,6 @@ Rua Caiuás||St. Central||1
 Rua Maracajá||St. Central||1
 Rua Capauan||St. Central||1
 Rua Capauan||St. Central||1
-
 256||B. Feliz / T. da  Bíblia / St. Universitário
 T. Praça da Bíblia||St. Universitário||0
 Av. Anhanguera||St. Universitário||0
@@ -290,7 +284,6 @@ Pç. Universitária||Vila Morais||1
 Rua 261||Vila Morais||1
 Av. Anhanguera||Vila Morais||1
 T. Praça da Bíblia||Vila Morais||1
-
 605||Bro. da Vitória / Campinas / Centro
 Rua SC 25||Bro. São Carlos||0
 Rua SC 35||Bro. São Carlos||0
@@ -345,7 +338,6 @@ Rua JC 15||St. Central||1
 Av. Comercial||St. Central||1
 Rua SC 35||St. Central||1
 Rua SC 25||St. Central||1
-
 605.1||Bro. da Vitória / Campinas / Centro
 Av. Araguaia||St. Central||0
 Av. Paranaíba||St. Central||0
@@ -400,7 +392,6 @@ Av. Anhanguera||Bro. São Carlos||1
 Av. G||Bro. São Carlos||1
 Av. B||Bro. São Carlos||1
 Rua 3||Bro. São Carlos||1
-
 266||Bro. Feliz / Centro via St. Universitário
 Rua 17||Vl. Morais||0
 Rua 04||Vl. Morais||0
@@ -445,7 +436,6 @@ Av. Lauricio P. Rasmussem||St. Central||1
 Rua 15||St. Central||1
 Rua 04||St. Central||1
 Rua 17||St. Central||1
-
 611.1||Bro. Floresta / Centro
 Pça. do Trabalhador||St. Central||0
 Av. Goiás||St. Central||0
@@ -491,7 +481,6 @@ Rua Alfredo Nasser (R. 74)||Bro. São Domingos||1
 Av. Paranaíba||Bro. São Domingos||1
 Av. Tocantins||Bro. São Domingos||1
 Rua 01||Bro. São Domingos||1
-
 611||Bro. Floresta / Centro
 Av. Vale dos Sonhos||Bro. São Domingos||0
 Av. dos Ipês||Bro. São Domingos||0
@@ -532,7 +521,6 @@ Av. Oriente||St. Central||1
 Av. do Povo||St. Central||1
 Av. dos Ipês||St. Central||1
 Av. Vale dos Sonhos||St. Central||1
-
 174||Campinas / Fama / Campus
 Rua dos Guaicurus||St. Progresso||0
 Rua P||St. Progresso||0
@@ -606,7 +594,6 @@ Rua H||Bro. São Judas Tadeu||1
 Rua E||Bro. São Judas Tadeu||1
 Rua dos Timbiras||Bro. São Judas Tadeu||1
 Rua Guaicurus||Bro. São Judas Tadeu||1
-
 168||Campinas / Fama / Centro
 Rua dos Guaicurus||St. Progresso||0
 Rua P||St. Progresso||0
@@ -658,7 +645,6 @@ Rua H||St. Central||1
 Rua E||St. Central||1
 Rua dos Timbiras||St. Central||1
 Rua Guaicurus||St. Central||1
-
 268||Campus / Centro - Via Criméia Leste
 Campus II UFG||Campus||0
 Av. Esperança||Campus||0
@@ -688,7 +674,6 @@ Av. Rondônia||St. Central||1
 Av. Rondônia||St. Central||1
 Av. Esperança||St. Central||1
 Campus II UFG||St. Central||1
-
 270||Campus / Centro - Via Criméia Oeste
 PC Campus||Conj. Itatiaia||0
 ICB I||Conj. Itatiaia||0
@@ -750,7 +735,6 @@ Rodovia R2||St. Central||1
 Fac. de Letras||St. Central||1
 ICB I||St. Central||1
 PC Campus||St. Central||1
-
 302||Campus / Marista
 Rua 02||Chacaras Califórnia||0
 Av. Nerópolis||Chacaras Califórnia||0
@@ -804,7 +788,6 @@ Campus Samanbaia - UFG||St. Marista||1
 Rodovia R 02||St. Marista||1
 Av. Nerópolis||St. Marista||1
 Rua 02||St. Marista||1
-
 400||Circular - Via Indepedência
 T. Pç. "A"||St. Coimbra||0
 Av. Independência||St. Coimbra||0
@@ -829,7 +812,6 @@ Av. Castelo Branco||St. Universitário||1
 Pç. Walter Santos||St. Universitário||1
 Rua 210 (Rua Isaira Abrão)||St. Universitário||1
 T. Pç. "A"||St. Universitário||1
-
 401||Circular - Via Pça. Walter Santos
 T. Pç. "A"||St. Coimbra||0
 Rua 210 (R. Isaira Abrão)||St. Coimbra||0
@@ -862,7 +844,6 @@ Av. Independência||St. Universitário||1
 Av. Independência||St. Universitário||1
 Av. Independência||St. Universitário||1
 T. Pç. "A"||St. Universitário||1
-
 258||Circular Aeroporto / Centro via St. Jaó
 Av. Paranaíba||St. Central||0
 Av. Tocantins||St. Central||0
@@ -908,7 +889,6 @@ Rua Prof. João H. Gonçalves ( Rua 212)||St. Jaó||1
 Av. Araguaia||St. Jaó||1
 Av. Araguaia||St. Jaó||1
 Av. Paranaíba||St. Jaó||1
-
 650||Circular Sul - Via BR-153
 T. Isidória||St. Pedro Luduvico||0
 Av. 4ª Radial||St. Pedro Luduvico||0
@@ -967,7 +947,6 @@ Av. T - 63||St. Araguaia||1
 Av. Circular||St. Araguaia||1
 Av. 4ª Radial||St. Araguaia||1
 T. Isidória||St. Araguaia||1
-
 651||Circular Sul - Via Veiga Jd.
 T. Isidória||St. Pedro Ludovico||0
 Av. 4ª Radial||St. Pedro Ludovico||0
@@ -1025,7 +1004,6 @@ Av. São Paulo||Jd. Monte Cristo||1
 Av. 4ª Radial||Jd. Monte Cristo||1
 Av. 4ª Radial||Jd. Monte Cristo||1
 T. Isidória||Jd. Monte Cristo||1
-
 104||Clube Ferreira Pacheco / Centro
 Hospital Sta. Genoveva||Bro. Sta. Genoveva||0
 Rua da Concórdia||Bro. Sta. Genoveva||0
@@ -1063,7 +1041,6 @@ Av. João Leite||St. Central||1
 Rua Paranoá||St. Central||1
 Rua da Concórdia||St. Central||1
 Hospital Sta. Genoveva||St. Central||1
-
 602||Colina Azul / Centro via 85
 Av. Flamingo||St. Colina Azul||0
 Rua 22||St. Colina Azul||0
@@ -1114,7 +1091,6 @@ Rua 65-A||St. Central||1
 Rua 01||St. Central||1
 Rua 22||St. Central||1
 Rua Flamingo||St. Central||1
-
 602.1||Colina Azul / Centro via 85
 Pça. do Trabalhador||St. Norte Ferroviário||0
 Av. Goiás||St. Norte Ferroviário||0
@@ -1166,7 +1142,6 @@ Rua 84||St. Colina Azul||1
 Pça. Cívica||St. Colina Azul||1
 Av. Tocantins||St. Colina Azul||1
 Av. Paranaiba||St. Colina Azul||1
-
 001||Eixo Anhanguera
 T. Pe. Pelágio||Bro. Ipiranga||0
 Av. Anhanguera||Bro. Ipiranga||0
@@ -1200,7 +1175,6 @@ Av. Anhanguera||Jd. Novo Mundo||1
 Av. Anhanguera||Jd. Novo Mundo||1
 Av. Anhanguera||Jd. Novo Mundo||1
 T. Pe. Pelágio||Jd. Novo Mundo||1
-
 021||Flamboyant / Term  Pça Bíblia
 Al. das Paineiras||Jd. Goiás||0
 Rua Terezina||Jd. Goiás||0
@@ -1239,7 +1213,6 @@ Av. J||St. Universitário||1
 Rua 109||St. Universitário||1
 Al. Ipês||St. Universitário||1
 Al. das Paineiras||St. Universitário||1
-
 023||Flamboyant/ Campinas
 Flamboyant Shopping Center||Jd. Goiás||0
 Al. das Paineiras||Jd. Goiás||0
@@ -1296,7 +1269,6 @@ Rua 109||St. Campinas||1
 Al. Ipês||St. Campinas||1
 Al. das Paineiras||St. Campinas||1
 Flamboyant Shopping Center||St. Campinas||1
-
 603||Independência Mansões / Centro via 85
 Rua Arão de Souza||Bro. Indep. Mansões||0
 Rua 70||Bro. Indep. Mansões||0
@@ -1363,7 +1335,6 @@ Rua 01||St. Central||1
 Rua Benedito S. Toledo||St. Central||1
 Rua Benedito S. Toledo||St. Central||1
 Rua Arão de Souza||St. Central||1
-
 603.1||Independência Mansões / Centro via 85
 Pça. do Trabalhador||St. Norte Ferroviário||0
 Av. Goiás||St. Norte Ferroviário||0
@@ -1431,7 +1402,6 @@ Rua 84||Bro. Independência Mansões||1
 Pça. Cívica||Bro. Independência Mansões||1
 Av. Araguaia||Bro. Independência Mansões||1
 Av. Paranaiba||Bro. Independência Mansões||1
-
 606||Jardim das Oliveiras / Centro
 Av. Senador Canedo||St. Castro||0
 Av. Senador Canedo||St. Castro||0
@@ -1480,7 +1450,6 @@ Av. Senador Canedo||St. Central||1
 Rua SC-6||St. Central||1
 Rua SC-4||St. Central||1
 Rua 6||St. Central||1
-
 606.1||Jardim das Oliveiras / Centro
 Pça. do Trabalhador||St. Central||0
 Rua Av. Goiás||St. Central||0
@@ -1533,7 +1502,6 @@ Pça. Cívica||Pq. Alvorada||1
 Av. Araguaia||Pq. Alvorada||1
 Rua 04||Pq. Alvorada||1
 Av. Tocantins||Pq. Alvorada||1
-
 178||Jd. Curitiba / T. Pça "A"
 Av. Pq. Infantil||Jd. Curitiba||0
 Rua JC - 10 (Av. Central)||Jd. Curitiba||0
@@ -1604,7 +1572,6 @@ Rua F||St. Coimbra||1
 Rua JC - 35 (Rua G)||St. Coimbra||1
 Rua JC - 10 (Av. Central)||St. Coimbra||1
 Av. Pq Infantil||St. Coimbra||1
-
 262||Jd. Guanabara / Centro
 Rua Indaiá||Jd. Guanabara||0
 Rua Itaúna||Jd. Guanabara||0
@@ -1640,7 +1607,6 @@ Av. Vera Cruz||St. Central||1
 Rua Itaúna||St. Central||1
 Rua Belo Horizonte||St. Central||1
 Rua Indaiá||St. Central||1
-
 280||Jd. Guanabara III / Centro - Via Av. Nazareth
 Rua GB - 09||Jd. Guanabara II||0
 Rua GB - 2E||Jd. Guanabara II||0
@@ -1686,7 +1652,6 @@ Av. GB - 27||St. Central||1
 Av. GB - 05||St. Central||1
 Rua GB - 19||St. Central||1
 Rua GB - 09||St. Central||1
-
 604.1||Jd. Itaipú / T. Bandeiras
 T. Bandeiras||Jd. Europa||0
 Av. dos Alpes||Jd. Europa||0
@@ -1708,7 +1673,6 @@ Av. Juscelino Kubitschek||Jd. Itaipú||1
 Av. César Lates||Jd. Itaipú||1
 Av. dos Alpes||Jd. Itaipú||1
 T. Bandeiras||Jd. Itaipú||1
-
 607.1||Maysa / Campinas / Centro
 Av. Anhanguera||St. Campinas||0
 Av. Anhanguera||St. Campinas||0
@@ -1784,7 +1748,6 @@ Av. Anhanguera||St. Maysa||1
 Rua 9 -B||St. Maysa||1
 Av. B||St. Maysa||1
 Rua 03||St. Maysa||1
-
 607||Maysa / Campinas / Centro
 Av. Guapó (Pça do Ginásio)||St. Maysa||0
 Av. Goiânia||St. Maysa||0
@@ -1855,7 +1818,6 @@ Rua Rosimira Marques||St. Central||1
 Av. Elizabeth Marques||St. Central||1
 Av. Elizabeth Marques||St. Central||1
 Rua Guapó (Pça. do Ginásio)||St. Central||1
-
 169||Morada Nova / Centro
 Rua Pirenópolis||Conj. Morada Nova||0
 Rua Uruaçu||Conj. Morada Nova||0
@@ -1917,7 +1879,6 @@ Rua Claúdio Costa||St. Norte Ferroviário||1
 Rua José Gomes Bailão||St. Norte Ferroviário||1
 Rua José Gomes Bailão||St. Norte Ferroviário||1
 Rua Pirenópolis||St. Norte Ferroviário||1
-
 405||N. Mundo / Independência / Centro
 Av. do Ouro||Jd. Novo Mundo||0
 Av. Cel. Andrelino de Morais||Jd. Novo Mundo||0
@@ -1954,7 +1915,6 @@ Pça. Pindorama||St. Central||1
 Av. Caxias||St. Central||1
 Av. Cel. Andrelino de Morais||St. Central||1
 Av. do Ouro||St. Central||1
-
 406||N. Mundo / Serra Dourada / Centro
 Av. do Ouro||Jd. Novo Mundo||0
 Av. Cel. Andrelino de Morais||Jd. Novo Mundo||0
@@ -1994,7 +1954,6 @@ Pça. Pindorama||St. Central||1
 Av. Caxias||St. Central||1
 Av. Cel. Andrelino Morais||St. Central||1
 Av. do Ouro||St. Central||1
-
 260||Negrão de Lima / Centro
 Av. Sen. Pericles||St. Negrão de Lima||0
 Rua Dona Maria de Fátima||St. Negrão de Lima||0
@@ -2024,7 +1983,6 @@ Av. Ver. José Monteiro||St. Central||1
 Rua 252||St. Central||1
 Av. Armando de Godoy||St. Central||1
 Av. Sen. Pericles||St. Central||1
-
 277||PC Amazônia / Pq. Amazônia
 Pç. A. Almeida||Pq.  Amazônia||0
 Rua Manaus||Pq.  Amazônia||0
@@ -2043,7 +2001,6 @@ Rua José Goiano||Pq.  Amazônia||1
 Rua Manaus||Pq.  Amazônia||1
 Praça A. Almeida||Pq.  Amazônia||1
 PC Amazônia||Pq.  Amazônia||1
-
 132||PC Campus / Itanhangá
 Rua Dom Pedro II||St. Mansões do Campus||0
 Rua Carlota Joaquina||St. Mansões do Campus||0
@@ -2063,7 +2020,6 @@ Av. Dona Leopoldina||Campus II UFG||1
 Av. Dom Pedro I||Campus II UFG||1
 Rua Carlota Joaquina||Campus II UFG||1
 Rua Dom Pedro II||Campus II UFG||1
-
 722||PC Campus / Nossa Morada
 Av. Esperança||Conj. Itatiaia||0
 Rua R 24||Conj. Itatiaia||0
@@ -2079,7 +2035,6 @@ Av. Planície||Res. Nossa Morada||1
 Rua R 27||Res. Nossa Morada||1
 Rua R 24||Res. Nossa Morada||1
 Av. Esperança||Res. Nossa Morada||1
-
 721||PC Campus / Shangri-lá
 Av. Esperança||Conj. Itatiaia||0
 Av. Antônio Barbosa||Conj. Itatiaia||0
@@ -2090,7 +2045,6 @@ Rua Tamoios||Cond. Shangri-lá||1
 Rua Liliane Barbosa||Cond. Shangri-lá||1
 Av. Antônio Barbosa||Cond. Shangri-lá||1
 Av. Esperança||Cond. Shangri-lá||1
-
 725||PC Circular Campus
 ICB I||Campus II UFG||0
 Fac. Letras||Campus II UFG||0
@@ -2102,7 +2056,6 @@ Fac. Agronomia||Campus II UFG||0
 Rodovia R2||Campus II UFG||1
 Fac. Letras||Campus II UFG||1
 ICB I||Campus II UFG||1
-
 525||PC Diamante / Cidade Livre
 PC Diamante||St. Marista Sul||0
 Av. Triângulo||St. Marista Sul||0
@@ -2117,7 +2070,6 @@ Avenida B||Cidade Livre||1
 Rua 09||Cidade Livre||1
 Av. Triângulo||Cidade Livre||1
 PC Diamante||Cidade Livre||1
-
 740||PC Guanabara / Vale dos Sonhos
 Rua GB 09||Jd. Guanabara II||0
 Rua GB 2-E||Jd. Guanabara II||0
@@ -2143,7 +2095,6 @@ Pista Auxiliar da BR - 153||Res. Vale dos Sonhos||1
 Av. do Desvio||Res. Vale dos Sonhos||1
 Av. do Desvio||Res. Vale dos Sonhos||1
 Rua GB 9||Res. Vale dos Sonhos||1
-
 197||PC Laranjeiras / Cj. Fabiana
 PC Laranjeiras||Pq das Laranjeiras||0
 Av. das Espartódias||Pq das Laranjeiras||0
@@ -2176,7 +2127,6 @@ Av. das Laranjeiras||Conj. Fabiana||1
 Av. Contorno||Conj. Fabiana||1
 Av. das Espartódias||Conj. Fabiana||1
 PC Laranjeiras||Conj. Fabiana||1
-
 198||PC Laranjeiras / Jd. Vitória
 PC Laranjeiras||Pq. das Laranjeiras||0
 Av. das Espartódias||Pq. das Laranjeiras||0
@@ -2209,7 +2159,6 @@ Av. das Laranjeiras||Jd. Vitória||1
 Av. Contorno||Jd. Vitória||1
 Av. das Espartódias||Jd. Vitória||1
 PC Laranjeiras||Jd. Vitória||1
-
 568||PC Laranjeiras / Pq. Flamboyant
 PC Laranjeiras||Pq. das Laranjeiras||0
 Av. das Espartódias||Pq. das Laranjeiras||0
@@ -2246,7 +2195,6 @@ Al. Inan||Jd. Olímpico||1
 Al. Contorno||Jd. Olímpico||1
 Av. das Espartódias||Jd. Olímpico||1
 PC Laranjeiras||Jd. Olímpico||1
-
 204||PC Laranjeiras / Pq. Santa Cruz
 PC Laranjeiras||Pq. das Laranjeiras||0
 Avenida das Espartódias||Pq. das Laranjeiras||0
@@ -2270,7 +2218,6 @@ Al. Contorno (Rua Prof. Alfredo de Castro)||Pq. Santa Cruz||1
 Al. Contorno||Pq. Santa Cruz||1
 Av. das Espartódias||Pq. Santa Cruz||1
 PC Laranjeiras||Pq. Santa Cruz||1
-
 206||PC Mabel / Chác. São Pedro
 PC Mabel||Chacara Marivânia||0
 Pista Auxiliar Br - 153||Chacara Marivânia||0
@@ -2287,7 +2234,6 @@ Rua R-03||Chacaras São Pedro||1
 Rua 82||Chacaras São Pedro||1
 Pista Auxiliar Br - 153||Chacaras São Pedro||1
 PC Mabel||Chacaras São Pedro||1
-
 540||PC Papillon / Papillon Park
 PC Papilon||Papillon Park||0
 Rua L-11||Papillon Park||0
@@ -2298,7 +2244,6 @@ Rua L-16||Papillon Park||1
 Rua L-03||Papillon Park||1
 Rua L-11||Papillon Park||1
 PC Papilon||Papillon Park||1
-
 723||PC Pompéia / PC Goiânia II
 Av. Rondônia||Jd. Pompéia||0
 Rua Monte Castelo||Jd. Pompéia||0
@@ -2315,7 +2260,6 @@ Al. Contorno||St. Goiânia II||1
 Al. Contorno||St. Goiânia II||1
 Rua Eng. Derval de Castro||St. Goiânia II||1
 Rua Roma||St. Goiânia II||1
-
 715||PC Progresso / Sevene
 PC Progresso||St. Progresso||0
 Rua Guaicurus||St. Progresso||0
@@ -2346,7 +2290,6 @@ Rua João Damasceno||St. Sevene||1
 Rua dos Timbiras||St. Sevene||1
 Rua Guaicurus||St. Sevene||1
 PC Progresso||St. Sevene||1
-
 517||PC Tiradentes / Jd. Cascata
 PC Tiradentes||Jd. Tiradentes||0
 Rua 04||Jd. Tiradentes||0
@@ -2381,7 +2324,6 @@ Av. Brasil (Av.C)||Vl. Delfiori||1
 Av. Brasil (Av.C)||Vl. Delfiori||1
 Av. das Nações (Rua C-50)||Vl. Delfiori||1
 PC Tiradentes||Vl. Delfiori||1
-
 560||PC Tiradentes / Pq. Ibirapuera
 PC Tiradentes||Jd. Tiradentes||0
 Rua 04||Jd. Tiradentes||0
@@ -2404,7 +2346,6 @@ Rua R-04||Vl. Romana||1
 Av. Brasil (Av. C)||Vl. Romana||1
 Av. das Nações (Rua C-50)||Vl. Romana||1
 PC Tiradentes||Vl. Romana||1
-
 208||PC Trindade / Jd. Mariliza
 PC Trindade||Pq. Atheneu||0
 Av. Pq. Atheneu||Pq. Atheneu||0
@@ -2417,7 +2358,6 @@ Av. Engler||Jd. Mariliza||1
 Av. Bela Vista||Jd. Mariliza||1
 Av. Pq. Atheneu||Jd. Mariliza||1
 PC Trindade||Jd. Mariliza||1
-
 201||PC Trindade / Pq. São Jorge
 PC Trindade||Pq. Atheneu||0
 Av. Bela Vista||Pq. Atheneu||0
@@ -2432,7 +2372,6 @@ Rua Irmã Janete Klair||Pq. São Jorge||1
 Av. Wilton Pinheiro||Pq. São Jorge||1
 Av. Bela Vista||Pq. São Jorge||1
 PC Trindade||Pq. São Jorge||1
-
 567||PC Trindade / Pq. Trindade
 PC Trindade||Pq. Atheneu||0
 Av. Bela Vista||Pq. Atheneu||0
@@ -2452,7 +2391,6 @@ Rua Cristobal G. Álvares||Jd. Olímpico||1
 Av. Dom Antônio R. de Oliveira||Jd. Olímpico||1
 Av. Bela Vista||Jd. Olímpico||1
 PC Trindade||Jd. Olímpico||1
-
 591||PC Trindade / Vale das Pombas
 PC Trindade||Pq. Trindade||0
 Av. Bela Vista||Pq. Trindade||0
@@ -2464,7 +2402,6 @@ Estrada Vicinal||Vale das Pombas||1
 Av. Bela Vista||Vale das Pombas||1
 Av. Bela Vista||Vale das Pombas||1
 PC Trindade||Vale das Pombas||1
-
 200||PC UCG / Alphaville / Portal do Sol
 PC UCG||Área Campus II UCG||0
 Av. Diógenes Dolival Sampaio||Área Campus II UCG||0
@@ -2488,7 +2425,6 @@ Av. Diógenes Dolival Sampaio||Res. dos Ipês||1
 Av. Diógenes Dolival Sampaio||Res. dos Ipês||1
 Av. Diógenes Dolival Sampaio||Res. dos Ipês||1
 PC UCG||Res. dos Ipês||1
-
 175||Pq. Anhanguera / Centro - Via T-63
 Av. T - 63 (Campus Sales)||Bro. Anhanguera||0
 Av. T - 63||Bro. Anhanguera||0
@@ -2513,7 +2449,6 @@ Av. T - 63||St. Central||1
 Av. T - 63||St. Central||1
 Av. T - 63||St. Central||1
 Av. T - 63 (Campus Sales)||St. Central||1
-
 014||Pq. Atheneu / Campinas
 Av. Pq. Atheneu||Pq. Atheneu||0
 Av. Bela Vista||Pq. Atheneu||0
@@ -2556,7 +2491,6 @@ Av. Contorno||St. Campinas||1
 Av. Pio Correia||St. Campinas||1
 Av. Bela Vista||St. Campinas||1
 Av. Pq. Atheneu||St. Campinas||1
-
 002||Pq. Atheneu / Centro / Rodoviária
 Av. Pq. Atheneu||Pq. Atheneu||0
 Av. Bela Vista||Pq. Atheneu||0
@@ -2597,7 +2531,6 @@ Av. Pio Correia||St. Norte Ferroviário||1
 Av. Engles||St. Norte Ferroviário||1
 Av. Bela Vista||St. Norte Ferroviário||1
 Av. Pq. Atheneu||St. Norte Ferroviário||1
-
 225||Res. Guanabara / Centro - via Av. Nazareth
 Av. Paranaíba||St. Central||0
 Av. Tocantins||St. Central||0
@@ -2647,7 +2580,6 @@ Rua Pof. João Henrique||Res. Felicidade||1
 Av. Araguaia||Res. Felicidade||1
 Av. Araguaia||Res. Felicidade||1
 Av. Paranaíba||Res. Felicidade||1
-
 600.1||Santa Luzia / Centro
 Av. Paranaiba||St. Central||0
 Av. Tocantins||St. Central||0
@@ -2682,7 +2614,6 @@ Rua 84||St. Santa Luzia||1
 Pç. Cívica||St. Santa Luzia||1
 Av. Araguaia||St. Santa Luzia||1
 Av. Paranaiba||St. Santa Luzia||1
-
 600||Santa Luzia / Centro
 Rua X - 16||St. Santa Luzia||0
 Av. W - 07||St. Santa Luzia||0
@@ -2720,7 +2651,6 @@ Rua Goiás||St. Norte ferroviário||1
 Av. W-6||St. Norte ferroviário||1
 Rua P-4||St. Norte ferroviário||1
 Rua X-16||St. Norte ferroviário||1
-
 162.2||São José / Centro - St. Universitário
 Rua Belo Horizonte||Vl. João Vaz||0
 Av. Manaus||Vl. João Vaz||0
@@ -2792,7 +2722,6 @@ Av. Berlim||St. Sul||1
 Rua Florianópolis||St. Sul||1
 Av. Manaus||St. Sul||1
 Rua Belo Horizonte||St. Sul||1
-
 166||São José / Centro / St. Sul
 Rua Belo Horizonte||Vl. João Vaz||0
 Av. Manaus||Vl. João Vaz||0
@@ -2870,7 +2799,6 @@ Rua Belo Horizonte||St. Sul||1
 Rua Macapá||St. Sul||1
 Rua St. Terezinha||St. Sul||1
 Rua Aracajú||St. Sul||1
-
 162||São José / Centro / St. Universitário
 Rua 612||Vl. São José||0
 Av. Dom Prudêncio||Vl. São José||0
@@ -2922,7 +2850,6 @@ Rua Henrique Perim||Bro. Alto da Boa Vista||1
 Av. Dom Prudêncio||Bro. Alto da Boa Vista||1
 Rua 617||Bro. Alto da Boa Vista||1
 Rua 612||Bro. Alto da Boa Vista||1
-
 018||T. Araguaia / Centro Gyn - Via BR-153
 T. Araguaia||St. Araguaia||0
 Av. A||St. Araguaia||0
@@ -2966,7 +2893,6 @@ Rodovia BR-153||St. Central||1
 Av. A||St. Central||1
 Av. D||St. Central||1
 T. Araguaia||St. Central||1
-
 506||T. Araguaia / Cepaigo
 T. Araguaia||St. Araguaia||0
 Av. A||St. Araguaia||0
@@ -2989,7 +2915,6 @@ Rodovia BR-153||Daiag||1
 Rodovia BR-153||Daiag||1
 Av. A||Daiag||1
 T. Araguaia||Daiag||1
-
 522||T. Araguaia / Expansul
 T. Araguaia||St.Araguaia||0
 Av. A||St.Araguaia||0
@@ -3017,7 +2942,6 @@ Retorno Rodovia BR-153||Expansul||1
 Pista Aux. BR-153||Expansul||1
 Av. A||Expansul||1
 T. Araguaia||Expansul||1
-
 508||T. Araguaia / Itamarati
 T. Araguaia||St. Araguaia||0
 Avenida A||St. Araguaia||0
@@ -3051,7 +2975,6 @@ Rua 05||St. Alvorada Sul||1
 Av. B||St. Alvorada Sul||1
 Alameda D||St. Alvorada Sul||1
 T. Araguaia||St. Alvorada Sul||1
-
 563||T. Araguaia / Jd. Pampulha
 T. Araguaia||St. Araguaia||0
 Avenida A||St. Araguaia||0
@@ -3076,7 +2999,6 @@ Avenida Amazonas||Jd. Pampulha||1
 BR-153||Jd. Pampulha||1
 Avenida A||Jd. Pampulha||1
 T. Araguaia||Jd. Pampulha||1
-
 509||T. Araguaia / Rosa dos Ventos
 T. Araguaia||St. Araguaia||0
 Avenida A||St. Araguaia||0
@@ -3113,7 +3035,6 @@ Rua 05||Jd. Miramar||1
 Av. B||Jd. Miramar||1
 Al. D||Jd. Miramar||1
 T. Araguaia||Jd. Miramar||1
-
 569||T. Araguaia / Serra Dourada
 T. Araguaia||St. Araguaia||0
 Av. A||St. Araguaia||0
@@ -3146,7 +3067,6 @@ Av. B||Jd. dos Girassois||1
 Av. A||Jd. dos Girassois||1
 Al. D||Jd. dos Girassois||1
 T. Araguaia||Jd. dos Girassois||1
-
 550||T. Araguaia / Tangará
 T. Araguaia||St. Araguaia||0
 Av. A||St. Araguaia||0
@@ -3180,7 +3100,6 @@ Rua 05||Jd. Rosa do Sul||1
 Av. B||Jd. Rosa do Sul||1
 Av. D||Jd. Rosa do Sul||1
 T. Araguaia||Jd. Rosa do Sul||1
-
 507||T. Araguaia / Village Garavelo - Até Pólo Empresarial
 T. Araguaia||St. Araguaia||0
 Av. A||St. Araguaia||0
@@ -3216,7 +3135,6 @@ Rua 14||Pq. Vlg. Atalaia||1
 Rua 6||Pq. Vlg. Atalaia||1
 Via de LIgação||Pq. Vlg. Atalaia||1
 Av. Xavier de Almeida||Pq. Vlg. Atalaia||1
-
 608||T. Bandeiras / Alto Paraíso
 T. Bandeiras||Jd. Europa||0
 Av. dos Alpes||Jd. Europa||0
@@ -3240,7 +3158,6 @@ Av. Juscelino Kubitschek||Jd. Alto Paraíso||1
 Av. Cesar Lates||Jd. Alto Paraíso||1
 Av. dos Alpes||Jd. Alto Paraíso||1
 T. Bandeiras||Jd. Alto Paraíso||1
-
 196||T. Bandeiras / B. Cardoso I
 T. Bandeiras||Jd. Europa||0
 Av. Noruega||Jd. Europa||0
@@ -3279,7 +3196,6 @@ Av. Itália||Bro. Cardoso||1
 Rótula Av. Milão||Bro. Cardoso||1
 Av. Itália||Bro. Cardoso||1
 T. Bandeiras||Bro. Cardoso||1
-
 518||T. Bandeiras / B. Cardoso II
 T. Bandeiras||Jd. Europa||0
 Av. Noruega||Jd. Europa||0
@@ -3322,7 +3238,6 @@ Av. Noruega||Bro.Cardoso II||1
 Av. dos Alpes||Bro.Cardoso II||1
 Av. Itália||Bro.Cardoso II||1
 T. Bandeiras||Bro.Cardoso II||1
-
 005||T. Bandeiras / Campinas - Eixo Pio XII
 T. Bandeiras||Jd. Europa||0
 Av. dos Alpes||Jd. Europa||0
@@ -3362,7 +3277,6 @@ Av. Bandeiras||St. Coimbra||1
 Av. Veneza||St. Coimbra||1
 Av. dos Alpes||St. Coimbra||1
 T. Bandeiras||St. Coimbra||1
-
 022||T. Bandeiras / Campinas - Eixo União
 T. Bandeiras||Jd. Europa||0
 Av. dos Alpes||Jd. Europa||0
@@ -3393,7 +3307,6 @@ Rua C - 83||St. Coimbra||1
 Av. Luiz de Matos||St. Coimbra||1
 Av. dos Alpes||St. Coimbra||1
 T. Bandeiras||St. Coimbra||1
-
 578||T. Bandeiras / Center Ville
 T. Bandeiras||Jd. Europa||0
 Av. Noruega||Jd. Europa||0
@@ -3443,7 +3356,6 @@ Av. Veneza||Res. Center Ville||1
 Av. Milão||Res. Center Ville||1
 Av. Itália||Res. Center Ville||1
 T. Bandeiras||Res. Center Ville||1
-
 026||T. Bandeiras / Flamboyant - Via T-10
 T. Bandeiras||Jd. Europa||0
 Av. dos Alpes||Jd. Europa||0
@@ -3478,7 +3390,6 @@ Av. T - 09||Jd. Goiás||1
 Av. Noruega||Jd. Goiás||1
 Av. dos Alpes||Jd. Goiás||1
 T. Bandeiras||Jd. Goiás||1
-
 574||T. Bandeiras / Forteville
 T. Bandeiras||Jd. Europa||0
 Av. Noruega||Jd. Europa||0
@@ -3541,7 +3452,6 @@ Av. Milão||Res. Forteville||1
 Av. Milão||Res. Forteville||1
 Av. Itália||Res. Forteville||1
 T. Bandeiras||Res. Forteville||1
-
 579||T. Bandeiras / Jd. Caravelas
 T. Bandeiras||Jd. Europa||0
 Av. Noruega||Jd. Europa||0
@@ -3597,7 +3507,6 @@ Av. Veneza||Jd. Caravelas||1
 Av. Milão||Jd. Caravelas||1
 Av. Itália||Jd. Caravelas||1
 T. Bandeiras||Jd. Caravelas||1
-
 604||T. Bandeiras / Jd. Itaipú
 T. Bandeiras||Jd. Europa||0
 Av. dos Alpes||Jd. Europa||0
@@ -3619,7 +3528,6 @@ Av. Juscelino Kubitschek||Jd. Itaipú||1
 Av. César Lates||Jd. Itaipú||1
 Av. dos Alpes||Jd. Itaipú||1
 T. Bandeiras||Jd. Itaipú||1
-
 609||T. Bandeiras / Jd. Tiradentes
 T. Bandeiras||Jd. Europa||0
 Av. dos Alpes||Jd. Europa||0
@@ -3655,7 +3563,6 @@ Av. César Lates||Jd. Tiradentes||1
 Av. César Lates||Jd. Tiradentes||1
 Av. dos Alpes||Jd. Tiradentes||1
 T. Bandeiras||Jd. Tiradentes||1
-
 281||T. Bandeiras / Pq. Anhanguera
 T. Bandeiras||Jd. Europa||0
 Av. Noruega||Jd. Europa||0
@@ -3694,7 +3601,6 @@ Av. dos Alpes||Jd. Atlântico||1
 Av. dos Alpes||Jd. Atlântico||1
 Av. Itália||Jd. Atlântico||1
 T. Bandeiras||Jd. Atlântico||1
-
 003-A||T. Bandeiras / Praça Cívica via T-07
 T. Bandeiras||Jd. Europa||0
 Av. dos Alpes||Jd. Europa||0
@@ -3731,7 +3637,6 @@ Av. Araxá||St. Central||1
 Av. Belo Horizonte||St. Central||1
 Av. Itália||St. Central||1
 Av. Itália||St. Central||1
-
 004-A||T. Bandeiras / Praça Cívica via T-09
 T. Bandeiras||Jd. Europa||0
 Av. T - 09||Jd. Europa||0
@@ -3747,7 +3652,6 @@ Av. T - 09||St. Central||1
 Av. T - 09||St. Central||1
 Av. T - 09||St. Central||1
 T. Bandeiras||St. Central||1
-
 275||T. Bandeiras / Rio Formoso
 T. Bandeiras||Jd. Europa||0
 Av. Noruega||Jd. Europa||0
@@ -3790,7 +3694,6 @@ Av. Veneza||Res. Center Ville||1
 Av. Milão||Res. Center Ville||1
 Av. Itália||Res. Center Ville||1
 T. Bandeiras||Res. Center Ville||1
-
 407||T. Bandeiras / T. Cruzeiro
 T. Bandeiras||Jd. Europa||0
 Av. T - 09||Jd. Europa||0
@@ -3813,7 +3716,6 @@ Av. Pasteur||Jd. Nova Era||1
 Rua Santo Agostinho||Jd. Nova Era||1
 Av. T - 09||Jd. Nova Era||1
 T. Bandeiras||Jd. Nova Era||1
-
 033||T. Bandeiras / T. Garavelo
 T. Garavelo||Jd. Tropical||0
 Av. Tropical||Jd. Tropical||0
@@ -3845,7 +3747,6 @@ GO - 040||Jd. Europa||1
 Av. Tropical||Jd. Europa||1
 Pista Auxiliar GO - 040||Jd. Europa||1
 T. Garavelo||Jd. Europa||1
-
 027||T. Bandeiras / T.da Bíblia - Via T-07
 T. Bandeiras||Jd. Europa||0
 Av. Noruega||Jd. Europa||0
@@ -3898,7 +3799,6 @@ T. Bandeiras||St. Universitário||1
 Av. C - 17||St. Universitário||1
 Av.Luis de Matos||St. Universitário||1
 Av. dos Alpes||St. Universitário||1
-
 028||T. Bandeiras / T.da Bíblia - Via T-09
 T. Bandeiras||Jd. Europa||0
 Av. Noruega||Jd. Europa||0
@@ -3938,7 +3838,6 @@ Av. T - 09||St. Universitário||1
 Av. Noruega||St. Universitário||1
 Av. dos Alpes||St. Universitário||1
 T. Bandeiras||St. Universitário||1
-
 575||T. Bandeiras / Veredas dos Buritis
 T. Bandeiras||Jd. Europa||0
 Av. Noruega||Jd. Europa||0
@@ -3965,7 +3864,6 @@ Av. Milão||Veredas dos Buritis||1
 Av. Milão||Veredas dos Buritis||1
 Av. Itália||Veredas dos Buritis||1
 T. Bandeiras||Veredas dos Buritis||1
-
 161||T. Bandeiras / Vila Boa
 T. Bandeiras||Jd. Europa||0
 Av. Noruega||Jd. Europa||0
@@ -3989,7 +3887,6 @@ Av. Veneza||Jd. Europa||1
 Av. Milão||Jd. Europa||1
 Av. Itália||Jd. Europa||1
 T. Bandeiras||Jd. Europa||1
-
 526||T. Cruzeiro / B. Hilda
 T. Cruzeiro do Sul||Jd. Nova Era||0
 Av. São João||Jd. Nova Era||0
@@ -4029,7 +3926,6 @@ Rua Ribeirão Preto||Cid. Satelite São Luiz||1
 Rua São Jorge||Cid. Satelite São Luiz||1
 Av. São João||Cid. Satelite São Luiz||1
 T. Cruzeiro do Sul||Cid. Satelite São Luiz||1
-
 017||T. Cruzeiro / Centro - Eixo T-10
 T. Cruzeiro do Sul||Jd. Nova Era||0
 Av. Rio Verde||Jd. Nova Era||0
@@ -4093,7 +3989,6 @@ Av. D. Maria Cardoso||St. Central||1
 Av. D. Maria Cardoso||St. Central||1
 Av. Rio Verde||St. Central||1
 T. Cruzeiro do Sul||St. Central||1
-
 523||T. Cruzeiro / Cid. Satelite S. Luiz
 T. Cruzeiro do Sul||Jd. Nova Era||0
 Av. São João||Jd. Nova Era||0
@@ -4116,7 +4011,6 @@ Av. Graça Aranha||Jd. Bela Morada||1
 Av. Barão do Rio Branco||Jd. Bela Morada||1
 Av. São João||Jd. Bela Morada||1
 T. Cruzeiro do Sul||Jd. Bela Morada||1
-
 527||T. Cruzeiro / Cid. Vera Cruz
 T. Cruzeiro do Sul||Jd. Nova Era||0
 Av. São João||Jd. Nova Era||0
@@ -4153,7 +4047,6 @@ Rua das Figueiras||Cid. Vera Cruz||1
 Av. São João||Cid. Vera Cruz||1
 Av. São João||Cid. Vera Cruz||1
 T. Cruzeiro do Sul||Cid. Vera Cruz||1
-
 520||T. Cruzeiro / Estrela do Sul
 T. Cruzeiro do Sul||Jd. Nova Era||0
 Av. São João||Jd. Nova Era||0
@@ -4168,7 +4061,6 @@ Av. Rio Verde||Conj. Estrela do Sul||1
 Av. Rio Verde||Conj. Estrela do Sul||1
 Av. São João||Conj. Estrela do Sul||1
 T. Cruzeiro do Sul||Conj. Estrela do Sul||1
-
 592||T. Cruzeiro / Santa Fé
 T. Cruzeiro do Sul||Jd. Nova Era||0
 Av. São João||Jd. Nova Era||0
@@ -4203,7 +4095,6 @@ Av. Rio Verde||Bro. Cardoso||1
 Av. Rio Verde||Bro. Cardoso||1
 Av. São João||Bro. Cardoso||1
 T. Cruzeiro do Sul||Bro. Cardoso||1
-
 016||T. Cruzeiro / St. Aeroporto - Eixo T-08
 T. Cruzeiro do Sul||Jd. Nova Era||0
 Av. Rio Verde||Jd. Nova Era||0
@@ -4261,7 +4152,6 @@ Av. Rio Negro||St. Central||1
 Av. Urú||St. Central||1
 Av. Rio Verde||St. Central||1
 T. Cruzeiro do Sul||St. Central||1
-
 019||T. Cruzeiro / T. da Bíblia
 T. Cruzeiro do Sul||Jd. Nova Era||0
 Av. Rio Verde||Jd. Nova Era||0
@@ -4330,7 +4220,6 @@ Av. D. Maria Cardoso||St. Universitário||1
 Av. D. Maria Cardoso||St. Universitário||1
 Av. Rio Verde||St. Universitário||1
 T. Cruzeiro do Sul||St. Universitário||1
-
 171||T. Cruzeiro / T. Pça "A"
 T. Cruzeiro do Sul||Jd. Nova Era||0
 Av. Rio Verde||Jd. Nova Era||0
@@ -4381,7 +4270,6 @@ Av. Feira de Santana||St. Coimbra||1
 Av. Urú||St. Coimbra||1
 Av. Rio Verde||St. Coimbra||1
 T. Cruzeiro do Sul||St. Coimbra||1
-
 313||T. da Bíblia / Aldeia do Vale
 T. Praça da Bíblia||St. Universitário||0
 Praça da Bíblia||St. Universitário||0
@@ -4417,7 +4305,6 @@ Av. C||Polo Emp. Bernardo Sayão||1
 Av. Anhanguera||Polo Emp. Bernardo Sayão||1
 Praça da Bíblia||Polo Emp. Bernardo Sayão||1
 T. Praça da Bíblia||Polo Emp. Bernardo Sayão||1
-
 580||T. da Bíblia / Aparecida de Goiânia
 T. Praça da Bíblia||St. Universitário||0
 Pça da Bíblia||St. Universitário||0
@@ -4482,7 +4369,6 @@ BR - 153||Jd. Rosa do Sul||1
 Av. Anhanguera||Jd. Rosa do Sul||1
 Pça da Bíblia||Jd. Rosa do Sul||1
 T. Praça da Bíblia||Jd. Rosa do Sul||1
-
 582||T. da Bíblia / Bela Vista
 T. Praça da Bíblia||St. Leste Universitário||0
 Praça da Bíblia||St. Leste Universitário||0
@@ -4529,7 +4415,6 @@ Viaduto||St. Central (Bela Vista)||1
 Av. Anhanguera||St. Central (Bela Vista)||1
 Praça da Bíblia||St. Central (Bela Vista)||1
 T. Praça da Bíblia||St. Central (Bela Vista)||1
-
 254||T. da Bíblia / Caiçara
 T. Praça da Bíblia||St. Universitário||0
 Av. Anmhanguera||St. Universitário||0
@@ -4545,7 +4430,6 @@ BR 153||Vila Yate||1
 BR 153||Vila Yate||1
 Av. Anmhanguera||Vila Yate||1
 T. Praça da Bíblia||Vila Yate||1
-
 213||T. da Bíblia / Hidrolândia
 T. Praça da Bíblia||St. Universitário||0
 Av. Anhanguera||St. Universitário||0
@@ -4598,7 +4482,6 @@ Rodovia BR - 153||Hidrolândia||1
 Rodovia BR - 153||Hidrolândia||1
 Av. Anhanguera||Hidrolândia||1
 T. Praça da Bíblia||Hidrolândia||1
-
 581||T. da Bíblia / Nerópolis
 T. Praça da Bíblia||St. Universitário||0
 Av. Anhanguera||St. Universitário||0
@@ -4673,7 +4556,6 @@ Av. Industrial||St. Marista||1
 Av. Independência||St. Marista||1
 Pça da Bíblia||St. Marista||1
 T. Praça da Bíblia||St. Marista||1
-
 284||T. da Bíblia / Nova Fátima
 T. Praça da Bíblia||St. Universitário||0
 Praça da Bíblia||St. Universitário||0
@@ -4751,7 +4633,6 @@ Av. Anhanguera||Nova Fátima||1
 Praça da Bíblia||Nova Fátima||1
 Av. Anhanguera||Nova Fátima||1
 T. Praça da Bíblia||Nova Fátima||1
-
 739||T. da Bíblia / Portal do Sol
 T. Praça. da Biblia||St. Leste Universitário||0
 Rua 256||St. Leste Universitário||0
@@ -4797,7 +4678,6 @@ Pça. Veríssimo de Sousa||Cond. Portal do Sol II||1
 Rua 261||Cond. Portal do Sol II||1
 Pça. da Bíblia||Cond. Portal do Sol II||1
 T. Pça. da Biblia||Cond. Portal do Sol II||1
-
 283||T. da Bíblia / T. Sen. Canedo - Via Goiás Carne
 T.  Pç. da Biblia||St.  Universitário||0
 Rua 261||St.  Universitário||0
@@ -4851,7 +4731,6 @@ Pç. Veríssimo de  Sousa||Conj.  Uirapurú||1
 Rua 256||Conj.  Uirapurú||1
 Av. Anhanguera||Conj.  Uirapurú||1
 T. Pça. da  Biblia||Conj.  Uirapurú||1
-
 274||T. da Bíblia / Vila Yate
 T. Praça da Bíblia||St. Universitário||0
 Av. Anhanguera||St. Universitário||0
@@ -4867,7 +4746,6 @@ Rua 20||Vl. Yate||1
 Av. Anhanguera||Vl. Yate||1
 Praça da Bíblia||Vl. Yate||1
 T. Praça da Bíblia||Vl. Yate||1
-
 182||T. Dergo / Guapó - Via T. Pq. Oeste
 T. Dergo||Bro. Rodoviário||0
 Av. Anhanguera||Bro. Rodoviário||0
@@ -4918,7 +4796,6 @@ Praça Dom Prudêncio||Munic. Guapó||1
 Av. Dom Emanuel||Munic. Guapó||1
 Av. Anhanguera||Munic. Guapó||1
 T. Dergo||Munic. Guapó||1
-
 050||T. Dergo / Nova Veneza
 T. Dergo||Bro. Rodoviário||0
 Av. Anhanguera||Bro. Rodoviário||0
@@ -4985,7 +4862,6 @@ Av. 24 de Outubro||Nova Veneza||1
 Rua 17||Nova Veneza||1
 Av. Anhanguera||Nova Veneza||1
 T. Dergo||Nova Veneza||1
-
 153||T. Dergo / Pq. Ind. João Braz
 T. Dergo||Bro. dos Aeroviários||0
 Av. Anhanguera||Bro. dos Aeroviários||0
@@ -5011,7 +4887,6 @@ Pça. Dom Prudêncio||Pq. Ind. João Braz||1
 Av. Dom Emanuel||Pq. Ind. João Braz||1
 Av. Anhanguera||Pq. Ind. João Braz||1
 T. Dergo||Pq. Ind. João Braz||1
-
 151||T. Dergo / São Francisco
 T. Dergo||Bro. Rodoviário||0
 Av. Anhanguera||Bro. Rodoviário||0
@@ -5060,7 +4935,6 @@ Av. Castelo Branco||Res. Petrópolis||1
 Av. Dom Emanuel||Res. Petrópolis||1
 Av. Anhanguera||Res. Petrópolis||1
 T. Dergo||Res. Petrópolis||1
-
 149||T. Dergo / T. Bandeiras
 T. Dergo||Bro. Rodoviário||0
 Av. Anhanguera||Bro. Rodoviário||0
@@ -5104,7 +4978,6 @@ Praça Dom Prudêncio||Jd. Europa||1
 Av. Dom Emanuel||Jd. Europa||1
 Av. Anhanguera||Jd. Europa||1
 T. Dergo||Jd. Europa||1
-
 154||T. Dergo / Vl. João Vaz
 T. Dergo||Bro. Rodoviário||0
 Av. Anhanguera||Bro. Rodoviário||0
@@ -5131,7 +5004,6 @@ Rua 02||St. Perim||1
 Rua 17||St. Perim||1
 Av. Anhanguera||St. Perim||1
 T. Dergo||St. Perim||1
-
 199||T. Garavelo / Aeroporto Sul
 T. Garavelo||Jd. Tropical||0
 Av. Lago das Garças||Jd. Tropical||0
@@ -5165,7 +5037,6 @@ Rodovia GO - 040||St. Aeroporto Sul||1
 Rodovia GO - 040||St. Aeroporto Sul||1
 Av. Tropical||St. Aeroporto Sul||1
 T. Garavelo||St. Aeroporto Sul||1
-
 282||T. Garavelo / Amim Camargo
 T. Garavelo||Jd. Tropical||0
 Av. Lago das Garças||Jd. Tropical||0
@@ -5193,7 +5064,6 @@ Rua São Roque||Cond. Amin Camargo||1
 Rodovia GO - 040||Cond. Amin Camargo||1
 Av. Tropical||Cond. Amin Camargo||1
 T. Garavelo||Cond. Amin Camargo||1
-
 186||T. Garavelo / Buriti Sereno
 T. Garavelo||Jd. Tropical||0
 Av. Lago das Garças||Jd. Tropical||0
@@ -5229,7 +5099,6 @@ GO - 040||Jd. Buriti Sereno||1
 Av. Tropical||Jd. Buriti Sereno||1
 Via de acesso T. Garavelo||Jd. Buriti Sereno||1
 T. Garavelo||Jd. Buriti Sereno||1
-
 004||T. Garavelo / Centro - Eixo T-09
 T. Garavelo||Jd. Tropical||0
 Av. Tropical||Jd. Tropical||0
@@ -5274,7 +5143,6 @@ Rodovia GO-040||St. Central||1
 Av. Tropical||St. Central||1
 Pista Auxiliar Rodovia GO-040||St. Central||1
 T. Garavelo||St. Central||1
-
 035||T. Garavelo / Centro - Eixo T-63
 T. Garavelo||Jd. Tropical||0
 Av. Tropical||Jd. Tropical||0
@@ -5339,7 +5207,6 @@ Rodovia GO-040||St. Norte Ferroviário||1
 Av. Tropical||St. Norte Ferroviário||1
 Pista Auxiliar GO-040||St. Norte Ferroviário||1
 T. Garavelo||St. Norte Ferroviário||1
-
 501||T. Garavelo / Goiânia Park Sul
 T. Garavelo||Jd.Tropical||0
 Av. Lago das Garças||Jd.Tropical||0
@@ -5360,7 +5227,6 @@ Av. Agostinho Machado de Miranda||Goiânia Park Sul||1
 Av. da Luz||Goiânia Park Sul||1
 Av. Tropical||Goiânia Park Sul||1
 T. Garavelo||Goiânia Park Sul||1
-
 573||T. Garavelo / Grajaú
 T. Garavelo||Jd. Tropical||0
 Av. Lago das Garças||Jd. Tropical||0
@@ -5385,7 +5251,6 @@ Rua São Roque||St. Grajaú||1
 Rodovia GO - 040||St. Grajaú||1
 Av. Tropical||St. Grajaú||1
 T. Garavelo||St. Grajaú||1
-
 133||T. Garavelo / Jd. Itaipu
 T. Garavelo||Jd. Tropical||0
 Av. Lago das Garças||Jd. Tropical||0
@@ -5410,7 +5275,6 @@ GO - 040||Res. Itaipu||1
 GO - 040||Res. Itaipu||1
 Av. Tropical||Res. Itaipu||1
 T. Garavelo||Res. Itaipu||1
-
 521||T. Garavelo / Jd. Tiradentes
 T. Garavelo||Jd. Tropical||0
 Av. Lago das Garças||Jd. Tropical||0
@@ -5428,7 +5292,6 @@ Av. Atlântica||Jd. Tiradentes||1
 Av. Tropical||Jd. Tiradentes||1
 Av. Tropical||Jd. Tiradentes||1
 T. Garavelo||Jd. Tiradentes||1
-
 322||T. Garavelo / Jd. Veneza
 T. Garavelo||Jd. Tropical||0
 Av. Lago das Garças||Jd. Tropical||0
@@ -5473,7 +5336,6 @@ Rodovia GO - 040||Jd. Veneza||1
 Av. Tropical||Jd. Veneza||1
 Via de acesso T. Garavelo||Jd. Veneza||1
 T. Garavelo||Jd. Veneza||1
-
 719||T. Garavelo / Orienteville
 T. Garavelo||Jd. Tropical||0
 Av. Lago das Garças||Jd. Tropical||0
@@ -5506,7 +5368,6 @@ GO - 040||St. Orientville||1
 Av. Tropical||St. Orientville||1
 Via de acesso T. Garavelo||St. Orientville||1
 T. Garavelo||St. Orientville||1
-
 572||T. Garavelo / Res. Itaipu
 T. Garavelo||Jd. Tropical||0
 Av. Lago das Garças||Jd. Tropical||0
@@ -5530,7 +5391,6 @@ GO - 040||Res. Itaipu||1
 GO - 040||Res. Itaipu||1
 Av. Tropical||Res. Itaipu||1
 T. Garavelo||Res. Itaipu||1
-
 326||T. Garavelo / Res. Real Conquista
 T. Garavelo||Jd. Tropical||0
 Av. Lago das Garças||Jd. Tropical||0
@@ -5561,7 +5421,6 @@ GO - 040||Res. Real Conquista||1
 GO - 040||Res. Real Conquista||1
 Av. Tropical||Res. Real Conquista||1
 T. Garavelo||Res. Real Conquista||1
-
 031||T. Garavelo / T. Araguaia
 T. Garavelo||Jd. Tropical||0
 Av. Tropical||Jd. Tropical||0
@@ -5643,7 +5502,6 @@ Rodovia GO - 040||St. Araguaia||1
 Av. Tropical||St. Araguaia||1
 Pista Aux. GO - 040||St. Araguaia||1
 T. Garavelo||St. Araguaia||1
-
 032||T. Garavelo / T. Cruzeiro
 T. Garavelo||St. Garavelo||0
 Av. Tropical||St. Garavelo||0
@@ -5665,7 +5523,6 @@ Rodovia GO - 040||Jd. Nova Era||1
 Av. Tropical||Jd. Nova Era||1
 Pista Aux. GO - 040||Jd. Nova Era||1
 T. Garavelo||Jd. Nova Era||1
-
 030||T. Garavelo / T. Veiga Jd. - Via Anel Viário
 T. Garavelo||Jd. Tropical||0
 Av. Tropical||Jd. Tropical||0
@@ -5698,7 +5555,6 @@ GO - 040||Pq. Veiga Jd.||1
 Av. Tropical||Pq. Veiga Jd.||1
 Pista Auxiliar GO-040||Pq. Veiga Jd.||1
 T. Garavelo||Pq. Veiga Jd.||1
-
 333||T. Goianira / Pa. Solimões
 T. Goianira||Centro||0
 Av. Guanabara||Centro||0
@@ -5734,7 +5590,6 @@ Av. Minas Gerais||Pq. Solimões||1
 Rua Ercília Grise de Melo||Pq. Solimões||1
 Av. Guanabara||Pq. Solimões||1
 T. Goianira||Pq. Solimões||1
-
 332||T. Goianira / Pq. Los Angeles
 T. Goianira||Centro||0
 Av. Guanabara||Centro||0
@@ -5770,7 +5625,6 @@ Av Goiás||St San Diego||1
 Rua Ercília Grise de Melo||St San Diego||1
 Av Guanabara||St San Diego||1
 T. Goiânira||St San Diego||1
-
 704||T. Gyn Viva / Carolina Park
 T. Goiânia Viva||Res. Goiânia Viva||0
 Rua GV - 08||Res. Goiânia Viva||0
@@ -5790,7 +5644,6 @@ Av. Gabriel Henrique Araújo||Carolina Park||1
 Av. Gabriel Henrique Araújo||Carolina Park||1
 Av. Tóquio||Carolina Park||1
 T. Goiânia Viva||Carolina Park||1
-
 164||T. Gyn Viva / Centro / St. Universitário
 T. Goiânia Viva||Res. Goiânia Viva||0
 Av. Tóquio||Res. Goiânia Viva||0
@@ -5894,7 +5747,6 @@ Rua GV 09||St. Universitário||1
 Rua GV 10||St. Universitário||1
 Rua GV 11||St. Universitário||1
 T. Goiânia Viva||St. Universitário||1
-
 705||T. Gyn Viva / Jd. Das Rosas / Della Pennã
 T. Goiânia Viva||Res. Goiânia Viva||0
 Rua GV - 8||Res. Goiânia Viva||0
@@ -5942,7 +5794,6 @@ Rua José do Patrocínio||Bro. Jd. Botânico||1
 Av. Gabriel Henrique Araujo||Bro. Jd. Botânico||1
 Av. Tóquio||Bro. Jd. Botânico||1
 T. Goiânia Viva||Bro. Jd. Botânico||1
-
 710||T. Gyn Viva / Serra Azul
 T. Goiânia Viva||Res. Goiânia Viva||0
 Rua GV - 08||Res. Goiânia Viva||0
@@ -5971,7 +5822,6 @@ Rua GV - 16||Res. Serra Azul||1
 Rua GV - 07||Res. Serra Azul||1
 Av. Tóquio||Res. Serra Azul||1
 T. Goiânia Viva||Res. Serra Azul||1
-
 135||T. Gyn Viva / Solange Park - Via Cond. Anhanguera
 T. Goiânia Viva||Res. Goiânia Viva||0
 Rua GV - 13||Res. Goiânia Viva||0
@@ -5994,7 +5844,6 @@ Rua Ozório de Oliveira||Cond. Anhanguera||1
 Rua PH - 06||Cond. Anhanguera||1
 Avenida Tóquio||Cond. Anhanguera||1
 T. Goiânia Viva||Cond. Anhanguera||1
-
 034||T. Gyn Viva / T. Bandeiras
 T. Goiânia Viva||Res. Goiânia Viva||0
 Av. Tóquio||Res. Goiânia Viva||0
@@ -6041,7 +5890,6 @@ Rua GV - 09||Jd. Europa||1
 Rua GV - 10||Jd. Europa||1
 Rua GV - 11||Jd. Europa||1
 T. Goiânia Viva||Jd. Europa||1
-
 565||T. Isidória / Jd. dos Buritis - Via BR-153
 T. Isidória||St. Pedro Ludovico||0
 Av. 3ª Radial||St. Pedro Ludovico||0
@@ -6061,7 +5909,6 @@ Al. Contorno||Jd. dos Buritis||1
 Av. Antônio Queiroz Barretos||Jd. dos Buritis||1
 Av. 3ª Radial||Jd. dos Buritis||1
 T. Isidória||Jd. dos Buritis||1
-
 185||T. Isidória / Paço Municipal
 T. Isidória||St. Pedro Ludovico||0
 Av. 3ª Radial||St. Pedro Ludovico||0
@@ -6087,7 +5934,6 @@ Al. Contorno||Park Lozandes||1
 Av. Antônio de Queiroz Barretos||Park Lozandes||1
 Av. 3ª Radial||Park Lozandes||1
 T. Isidória||Park Lozandes||1
-
 203||T. Isidória / Santa Luzia
 T. Isidória||St. Pedro Ludovico||0
 Av. 3ª. Radial||St. Pedro Ludovico||0
@@ -6119,7 +5965,6 @@ Av. Contorno||Sto. Santa Luzia||1
 Av. Antônio Q. Barretos||Sto. Santa Luzia||1
 Av. 3ª. Radial||Sto. Santa Luzia||1
 T. Isidória||Sto. Santa Luzia||1
-
 183||T. Isidória / Vila Sul
 T. Isidória||St. Pedro Ludovico||0
 Av. 4ª Radial||St. Pedro Ludovico||0
@@ -6150,7 +5995,6 @@ Al. Botafogo||Vl. Sul||1
 Al. Antônio M. Borges||Vl. Sul||1
 Av. 4ª. Radial||Vl. Sul||1
 T. Isidória||Vl. Sul||1
-
 184||T. Maranata / Alto Paraíso
 T. Maranata||Jd. Maranata||0
 GO - 040||Jd. Maranata||0
@@ -6167,7 +6011,6 @@ Av. Nsa. Sra. de Guadalupe||Jd. Dom Bosco II||1
 Av. Nsa. Sra. Aparecida||Jd. Dom Bosco II||1
 GO - 040||Jd. Dom Bosco II||1
 T. Maranata||Jd. Dom Bosco II||1
-
 192||T. Maranata / Aragoiânia
 T. Maranata||Jd. Maranata||0
 GO-040||Jd. Maranata||0
@@ -6206,7 +6049,6 @@ GO-040||Aragoiânia||1
 GO-040||Aragoiânia||1
 GO-040||Aragoiânia||1
 T. Maranata||Aragoiânia||1
-
 194||T. Maranata / Jd. Dom Bosco
 T. Maranata||Jd. Maranata||0
 GO - 040||Jd. Maranata||0
@@ -6229,7 +6071,6 @@ Av. Edson Olegário||Pq. Ibirapuera||1
 Rua Major Olegário||Pq. Ibirapuera||1
 GO - 040||Pq. Ibirapuera||1
 T. Maranata||Pq. Ibirapuera||1
-
 576||T. Maranata / Jd. dos Ipés
 T. Maranata||Jd. Maranata||0
 GO - 040||Jd. Maranata||0
@@ -6243,7 +6084,6 @@ GO - 040||Jd. dos Ipês||1
 GO - 040||Jd. dos Ipês||1
 GO - 040||Jd. dos Ipês||1
 T. Maranata||Jd. dos Ipês||1
-
 570||T. Maranata / Madre Germana I
 T. Maranata||Jd. Maranata||0
 Rodovia GO - 040||Jd. Maranata||0
@@ -6266,7 +6106,6 @@ Rodovia GO - 040||Madre Gemana I||1
 Rodovia GO - 040||Madre Gemana I||1
 Rodovia GO - 040||Madre Gemana I||1
 T. Maranata||Madre Gemana I||1
-
 571||T. Maranata / Madre Germana II
 T. Maranata||Jd. Maranata||0
 GO - 040||Jd. Maranata||0
@@ -6277,7 +6116,6 @@ Rua Georgina George Borges de Melo||Jd. Maranata||0
 Avenida José Barbosa Reis||Madre Germana II||1
 GO - 040||Madre Germana II||1
 T. Maranata||Madre Germana II||1
-
 577||T. Maranata / Pq. Ibirapuera
 T. Maranata||Jd. Maranata||0
 Rodovia GO - 040||Jd. Maranata||0
@@ -6293,7 +6131,6 @@ Av. dos Protestantes||Pq. Ibirapuera||1
 Av. Nossa Senhora Aparecida||Pq. Ibirapuera||1
 Rodovia GO - 040||Pq. Ibirapuera||1
 T. Maranata||Pq. Ibirapuera||1
-
 003||T. Maranata / Rodoviária - Eixo T-07
 T. Maranata||Jd. Maranata||0
 Rodovia GO-040||Jd. Maranata||0
@@ -6368,7 +6205,6 @@ Av. Araxá||St. Norte Ferrroviário||1
 Av. Belo Horizonte||St. Norte Ferrroviário||1
 Av. Itália||St. Norte Ferrroviário||1
 T. Bandeiras||St. Norte Ferrroviário||1
-
 212||T. N. Mundo / Bonfinópolis
 T. Novo Mundo||Jd. Novo Mundo||0
 Av. Buenos Aires||Jd. Novo Mundo||0
@@ -6421,7 +6257,6 @@ Av. Manchester||Bonfinópolis||1
 Av. Campos Elísios||Bonfinópolis||1
 Av. Buenos Aires||Bonfinópolis||1
 T. Novo Mundo||Bonfinópolis||1
-
 410||T. N. Mundo / D. Fernando - Via Cais
 T. Novo Mundo||Jd. Novo Mundo||0
 Av. Buenos Aires||Jd. Novo Mundo||0
@@ -6452,7 +6287,6 @@ Av. Manchester||Vl. Concórdia||1
 Av. Campos Elísios||Vl. Concórdia||1
 Av. Buenos Aires||Vl. Concórdia||1
 T. Novo Mundo||Vl. Concórdia||1
-
 409||T. N. Mundo / D. Fernando - Via Jd. Aroeiras
 T. Novo Mundo||Jd. Novo Mundo||0
 Av. Buenos Aires||Jd. Novo Mundo||0
@@ -6480,7 +6314,6 @@ Av. Manchester||Vl. Concórdia||1
 Av. Campos Elísios||Vl. Concórdia||1
 Av. Buenos Aires||Vl. Concórdia||1
 T. Novo Mundo||Vl. Concórdia||1
-
 771||T. N. Mundo / Goianapólis - Via Terezópolis
 T. Novo Mundo||Jd. Novo Mundo||0
 Av. Buenos Aires||Jd. Novo Mundo||0
@@ -6511,7 +6344,6 @@ Av. Manchester||Área Rural||1
 Av. Campos Elísios||Área Rural||1
 Av. Buenos Aires||Área Rural||1
 T. Novo Mundo||Área Rural||1
-
 273||T. N. Mundo / Jd. das Oliveiras
 T. Novo Mundo||Jd. Novo Mundo||0
 Av. Buenos Aires||Jd. Novo Mundo||0
@@ -6551,7 +6383,6 @@ Av. Manchester||Jd. das Oliveiras||1
 Av. Campos Elísios||Jd. das Oliveiras||1
 Av. Buenos Aires||Jd. das Oliveiras||1
 T. Novo Mundo||Jd. das Oliveiras||1
-
 223||T. N. Mundo / Pq. Alvorada
 T. Novo Mundo||Jd.Novo Mundo||0
 Av. Buenos Aires||Jd.Novo Mundo||0
@@ -6594,7 +6425,6 @@ Av. Manchester||St. Castro||1
 Av. Campos Elísios||St. Castro||1
 Av. Buenos Aires||St. Castro||1
 T. Novo Mundo||St. Castro||1
-
 285||T. N. Mundo / Rec. das M. Gerais via Jd. Abapuru
 T. Novo Mundo||Jd. Novo Mundo||0
 Av. Buenos Aires||Jd. Novo Mundo||0
@@ -6629,7 +6459,6 @@ Av. Manchester||Rec. das Minas Gerais||1
 Av. Campos Elísios||Rec. das Minas Gerais||1
 Av. Buenos Aires||Rec. das Minas Gerais||1
 T. Novo Mundo||Rec. das Minas Gerais||1
-
 318||T. N. Mundo / Rec. das M. Gerais via Sto. Hilário
 T. Novo Mundo||Novo Mundo||0
 Av. Buenos Aires||Novo Mundo||0
@@ -6660,7 +6489,6 @@ Av. Manchester||Rec. das Minas Gerais||1
 Av. Campos Elísios||Rec. das Minas Gerais||1
 Av. Buenos Aires||Rec. das Minas Gerais||1
 T. Novo Mundo||Rec. das Minas Gerais||1
-
 272||T. N. Mundo / Santo Hilário - Via Cais
 T. Novo Mundo||Jd. Novo Mundo||0
 Av. Buenos Aires||Jd. Novo Mundo||0
@@ -6677,7 +6505,6 @@ Rua Abel Rodrigues Chaveiro||Bro. Santo Hilário||1
 Av. Manchester||Bro. Santo Hilário||1
 Av. Buenos Aires||Bro. Santo Hilário||1
 T. Novo Mundo||Bro. Santo Hilário||1
-
 255||T. N. Mundo / T. Sen. Canedo
 T. Novo Mundo||Jd. Novo Mundo||0
 Av. Buenos Aires||Jd. Novo Mundo||0
@@ -6703,7 +6530,6 @@ Av. das Pirâmides||Conj. Uirapurú||1
 Av. das Cerâmicas||Conj. Uirapurú||1
 Av. Buenos Aires||Conj. Uirapurú||1
 T. Novo Mundo||Conj. Uirapurú||1
-
 278||T. N. Mundo / Vl. Matinha
 T. Novo Mundo||Jd .Novo Mundo||0
 Av. Buenos Aires||Jd .Novo Mundo||0
@@ -6750,7 +6576,6 @@ Av. Manchester||Vl. Matinha||1
 Av. Campos Elísios||Vl. Matinha||1
 Av. Buenos Aires||Vl. Matinha||1
 T. Novo Mundo||Vl. Matinha||1
-
 252||T. N. Mundo / Vl. Pedroso
 T. Novo Mundo||Jd. Novo Mundo||0
 Av. Buenos Aires||Jd. Novo Mundo||0
@@ -6779,7 +6604,6 @@ Av. Manchester||Res. Mar Del Plata||1
 Av. Campos Elísios||Res. Mar Del Plata||1
 Av. Buenos Aires||Res. Mar Del Plata||1
 T. Novo Mundo||Res. Mar Del Plata||1
-
 265||T. Novo Mundo / Condomínio Portugal
 T. Novo Mundo||Jd.Novo Mundo||0
 Av. Buenos Aires||Jd.Novo Mundo||0
@@ -6807,7 +6631,6 @@ Av. das Cerâmicas||Cond. Portugal||1
 Av. Buenos Aires||Cond. Portugal||1
 Av. Buenos Aires||Cond. Portugal||1
 T. Novo Mundo||Cond. Portugal||1
-
 317||T. Novo Mundo / Santo Hilário - via João Rosa
 T. Novo Mundo||Jd. Novo Mundo||0
 Av. Buenos Aires||Jd. Novo Mundo||0
@@ -6824,7 +6647,6 @@ Av. Manchester||Bro. Santo Hilário||1
 Av. Campos Elisios||Bro. Santo Hilário||1
 Av. Buenos Aires||Bro. Santo Hilário||1
 T. Novo Mundo||Bro. Santo Hilário||1
-
 259||T. Novo Mundo / Sonho Verde
 T. Novo Mundo||Jd.Novo Mundo||0
 Av. Buenos Aires||Jd.Novo Mundo||0
@@ -6870,7 +6692,6 @@ Av. Pedro Álvares Cabral||Conj. Riviera||1
 Rua B||Conj. Riviera||1
 Av. Buenos Aires||Conj. Riviera||1
 T. Novo Mundo||Conj. Riviera||1
-
 319||T. Novo Mundo / Valéria Perillo
 T. Novo Mundo||Jd. Novo Mundo||0
 Av. Buenos Aires||Jd. Novo Mundo||0
@@ -6889,7 +6710,6 @@ Rua das Cerâmicas||Cj. Valéria Perillo||1
 Av. Euzébio Martins||Cj. Valéria Perillo||1
 Av. Buenos Aires||Cj. Valéria Perillo||1
 T. Novo Mundo||Cj. Valéria Perillo||1
-
 001-A||T. Padre Pelágio / T. Praça "A"
 T. Pe. Pelágio||Bro. Ipiranga||0
 Av. Anhanguera||Bro. Ipiranga||0
@@ -6911,7 +6731,6 @@ Av. Anhanguera||St. dos Funcionários||1
 Av. Anhanguera||St. dos Funcionários||1
 Av. Anhanguera||St. dos Funcionários||1
 T. Pe. Pelágio||St. dos Funcionários||1
-
 015||T. Pça "A" / Flamboyant - Via T. Isidória
 T. Pç. "A"||St. Coimbra||0
 Rua 210 (Isaira Abrão)||St. Coimbra||0
@@ -6982,7 +6801,6 @@ Rua 240||Jd. Goiás||1
 Pç. Walter Santos||Jd. Goiás||1
 Rua 210 (Isaira Abrão)||Jd. Goiás||1
 T. Pç.. "A"||Jd. Goiás||1
-
 105||T. Pça "A" / PC Campus - Via B. Sayão
 T. Praça A||St. Campinas||0
 Av. Independência||St. Campinas||0
@@ -7027,7 +6845,6 @@ Av. 24 de Outubro||Área Campus UFG||1
 Av. Perimetral||Área Campus UFG||1
 Av. Independência||Área Campus UFG||1
 T. Praça A||Área Campus UFG||1
-
 160||T. Pça "A" / Sta. Helena / Centro
 T. Pç. "A"||St. Coimbra||0
 Av. Independêndcia||St. Coimbra||0
@@ -7094,7 +6911,6 @@ Av. 24 de Outubro||St. Central||1
 Av. Perimetral||St. Central||1
 Av. Independêndcia||St. Central||1
 T. Pç. "A"||St. Central||1
-
 287||T. Pça "A" / Sto. Antônio de Goiás
 T. Praça "A"||St. Coimbra||0
 Av. Independência||St. Coimbra||0
@@ -7137,7 +6953,6 @@ Av. 24 de Outubro||Santo Antônio||1
 Av. Perimetral||Santo Antônio||1
 Av. Independência||Santo Antônio||1
 T. Praça "A"||Santo Antônio||1
-
 590||T. Pe. Pelágio / B. Goiá
 T. Pe. Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7175,7 +6990,6 @@ Rua Água Limpa||Bro. Goiá||1
 Av. Bandeirantes||Bro. Goiá||1
 Rua Apá||Bro. Goiá||1
 T. Pe. Pelágio||Bro. Goiá||1
-
 158||T. Pe. Pelágio / B. Vitória - Via Vl. Mutirão
 T. Padre Pelagio||Bro. Ipiranga||0
 Avenida Anhanguera||Bro. Ipiranga||0
@@ -7201,7 +7015,6 @@ GO-070||Bro. São Carlos||1
 Avenida Anhanguera||Bro. São Carlos||1
 Avenida Padre Feijo||Bro. São Carlos||1
 T. Padre Pelagio||Bro. São Carlos||1
-
 214||T. Pe. Pelágio / Brazabrantes
 T. Padre Pelagio||Bro. Ipiranga||0
 Av. Anhanguera||Bro. Ipiranga||0
@@ -7235,7 +7048,6 @@ Rod. GO 070||St. Braza II||1
 Av. Padre Feijo||St. Braza II||1
 Av. Bandeirante||St. Braza II||1
 T. Padre Pelagio||St. Braza II||1
-
 037||T. Pe. Pelágio / Carrefour Norte
 T. Pe. Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7270,7 +7082,6 @@ Av. Anhanguera||St. Urias Magalhães||1
 Av. Padre Feijó (Av. Castelo Branco)||St. Urias Magalhães||1
 Rua São Joaquim||St. Urias Magalhães||1
 T. Pe. Pelágio||St. Urias Magalhães||1
-
 309||T. Pe. Pelágio / Cora Coralina
 T. Padre Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7299,7 +7110,6 @@ Av Anhanguera||Cora Coralina||1
 Padre Feijó (Cas. Branco)||Cora Coralina||1
 Av. Bandeirante||Cora Coralina||1
 T. Padre Pelágio||Cora Coralina||1
-
 311||T. Pe. Pelágio / Dona Iris
 T. Padre Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7359,7 +7169,6 @@ Rodovia GO-060 (Rodovia dos Romeiros)||Conj.Dona Iris||1
 Av. Bandeirante||Conj.Dona Iris||1
 Rua Apá||Conj.Dona Iris||1
 T. Padre Pelágio||Conj.Dona Iris||1
-
 042||T. Pe. Pelágio / Finsocial / Centro
 T. Pe. Pelagio||Bairo Ipiranga||0
 Av. Anhanguera||Bairo Ipiranga||0
@@ -7466,7 +7275,6 @@ da Av. Carrinho Cunha||St. Central||1
 Rua FL 14||St. Central||1
 Av. Maria Pestana||St. Central||1
 Av. José Martins Guerra||St. Central||1
-
 139||T. Pe. Pelágio / Goianira - Via GO 070
 T. Pe. Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7516,7 +7324,6 @@ Rua 4||Goianira||1
 Rua Rio de Janeiro||Goianira||1
 Av. José A. Gabriel||Goianira||1
 Rodovia GO 070||Goianira||1
-
 141||T. Pe. Pelágio / Jd. Califórnia
 T. Pe. Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7593,7 +7400,6 @@ Rodovia GO-060 (Rodovia dos Romeiros)||Jd. Califórnia||1
 Av. Bandeirantes||Jd. Califórnia||1
 Rua Apá||Jd. Califórnia||1
 T. Pe. Pelágio||Jd. Califórnia||1
-
 134||T. Pe. Pelágio / Jd. Curitiba
 T. Padre Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7638,7 +7444,6 @@ Av. Anhanguera||Bro. Floresta||1
 Av. Padre Feijó (Castelo Branco)||Bro. Floresta||1
 Rua São Joaquim||Bro. Floresta||1
 T. Padre Pelágio||Bro. Floresta||1
-
 599||T. Pe. Pelágio / Jd. Primavera
 T. Pe. Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7663,7 +7468,6 @@ Av. Anhanguera||St. Primavera||1
 Av. Padre Feijó (Av. Castelo Branco)||St. Primavera||1
 Rua São Joaquim||St. Primavera||1
 T. Pe. Pelágio||St. Primavera||1
-
 717||T. Pe. Pelágio / Jd. Vitória
 T. Padre Pelagio||Bro. Ipiranga||0
 Av. Anhanguera||Bro. Ipiranga||0
@@ -7709,7 +7513,6 @@ Av. Anhanguera||Bro. São Carlos||1
 Av. Padre Feijo||Bro. São Carlos||1
 Rua São Joaquim||Bro. São Carlos||1
 T. Padre Pelagio||Bro. São Carlos||1
-
 140||T. Pe. Pelágio / Maysa
 T. Padre Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7770,7 +7573,6 @@ Rodovia GO-060 (Rodovia dos Romeiros)||Conj. Dona Iris||1
 Av. Bandeirante||Conj. Dona Iris||1
 Rua Apá||Conj. Dona Iris||1
 T. Padre Pelágio||Conj. Dona Iris||1
-
 152||T. Pe. Pelágio / Nova Esperança
 T. Pe. Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7793,7 +7595,6 @@ Av. Anhanguera||Jd. Nova Esperança||1
 Av. Padre Feijó (Av. Castelo Branco)||Jd. Nova Esperança||1
 Rua São Joaquim||Jd. Nova Esperança||1
 T. Pe. Pelágio||Jd. Nova Esperança||1
-
 136||T. Pe. Pelágio / Novo Planalto
 T. Pe. Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7823,7 +7624,6 @@ Av. Anhanguera||Res. Mansões Paraíso||1
 Av. Padre Feijó (Av. Castelo Branco)||Res. Mansões Paraíso||1
 Rua São Joaquim||Res. Mansões Paraíso||1
 T. Pe. Pelágio||Res. Mansões Paraíso||1
-
 137||T. Pe. Pelágio / Pontakayana
 T. Pe. Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7891,7 +7691,6 @@ Rodovia GO-060 (Rodovia dos Romeiros)||St. PontaKaiana||1
 Av. Bandeirantes||St. PontaKaiana||1
 Rua Apá||St. PontaKaiana||1
 T. Pe. Pelágio||St. PontaKaiana||1
-
 157||T. Pe. Pelágio / São Domingos
 T. Pe. Pelágio||Bro. Ipiranga||0
 Rua Apá||Bro. Ipiranga||0
@@ -7929,7 +7728,6 @@ Av. do Povo||Jd. Curitiba||1
 Rua JC - 01||Jd. Curitiba||1
 Rua JC - 22||Jd. Curitiba||1
 Av. do Povo (CAIC)||Jd. Curitiba||1
-
 144||T. Pe. Pelágio / Solar Ville
 T. Padre Pelágio||Bro. Ipiranga||0
 Avenida Anhanguera||Bro. Ipiranga||0
@@ -7966,7 +7764,6 @@ Avenida Anhanguera||Solar Ville||1
 Avenida Padre Feijó (Castelo Branco)||Solar Ville||1
 Rua São Joaquim||Solar Ville||1
 T. Padre Pelágio||Solar Ville||1
-
 150||T. Pe. Pelágio / St. Palmares
 T. Pe. Pelágio||Bro.Ipiranga||0
 Rua Apá||Bro.Ipiranga||0
@@ -7996,7 +7793,6 @@ Av. Anhanguera||St. Palmares||1
 Av. Padre Feijó (Av. Castelo Branco)||St. Palmares||1
 Rua São Joaquim||St. Palmares||1
 T. Pe. Pelágio||St. Palmares||1
-
 036||T. Pe. Pelágio / T. Rec. Bosque
 Estação Recanto do Bosque||Recanto do Bosque||0
 Av. Mangalô||Recanto do Bosque||0
@@ -8019,7 +7815,6 @@ Av. Lago Azul||Bairro Ipiranga||1
 Av. Mangalô||Bairro Ipiranga||1
 Rua do Bosque||Bairro Ipiranga||1
 Estação Recanto do Bosque||Bairro Ipiranga||1
-
 142||T. Pe. Pelágio / T. Trindade
 T. Padre Pelagio||Bro. Ipiranga||0
 Av. Anhanguera||Bro. Ipiranga||0
@@ -8044,7 +7839,6 @@ Av. Leopoldo de Bulhões||St. Central||1
 GO-060 (Rod. dos Romeiros)||St. Central||1
 Av. Bandeirantes||St. Central||1
 T. Padre Pelagio||St. Central||1
-
 310||T. Pe. Pelágio / Triunfo
 T. Padre Pelágio||Bro. Ipiranga||0
 Av. Anhanguera||Bro. Ipiranga||0
@@ -8063,7 +7857,6 @@ Rodovia GO 070||Res. Triunfo||1
 Av. Padre Feijó||Res. Triunfo||1
 Av. Bandeirante||Res. Triunfo||1
 T. Padre Pelágio||Res. Triunfo||1
-
 156||T. Pq. Oeste / Abadia de Goiás
 T. Pq. Oeste||Pq. Oeste Industrial||0
 Rua do Bronze||Pq. Oeste Industrial||0
@@ -8099,7 +7892,6 @@ Rodovia BR 060||Abadia de Goiás||1
 Rua do Petróleo||Abadia de Goiás||1
 Rua das Palmas||Abadia de Goiás||1
 T. Pq. Oeste||Abadia de Goiás||1
-
 187||T. Pq. Oeste / Centro - Via Detran
 T. Pq. Oeste||Pq. Oeste Industrial||0
 Rua do Bronze||Pq. Oeste Industrial||0
@@ -8158,7 +7950,6 @@ Av. Pedro Ludovico||St. Norte Ferroviário||1
 Rua do Petróleo||St. Norte Ferroviário||1
 Rua das Palmas||St. Norte Ferroviário||1
 T. Pq. Oeste||St. Norte Ferroviário||1
-
 167||T. Pq. Oeste / Centro / St. Universitário
 T. Pq. Oeste||Pq. Oeste Industrial||0
 Rua do Bronze||Pq. Oeste Industrial||0
@@ -8231,7 +8022,6 @@ Av. Pedro Ludovico||St. Universitário||1
 Rua do Petróleo||St. Universitário||1
 Rua das Palmas||St. Universitário||1
 T. Pq. Oeste||St. Universitário||1
-
 706||T. Pq. Oeste / Forteville
 T. Pq. Oeste||Pq. Oeste Industrial||0
 Rua das Palmas||Pq. Oeste Industrial||0
@@ -8268,7 +8058,6 @@ Rodovia BR 060||Residencial Forteville||1
 Av. Pedro Ludovico||Residencial Forteville||1
 Rua do Bronze||Residencial Forteville||1
 T. Pq. Oeste||Residencial Forteville||1
-
 707||T. Pq. Oeste / Jd. Botânico
 T. Pq. Oeste||Pq. Oeste Industrial||0
 Rua do Amianto||Pq. Oeste Industrial||0
@@ -8302,7 +8091,6 @@ Rodovia BR 060||Jd. Botânico||1
 Av. Pedro Ludovico||Jd. Botânico||1
 Rua do Bronze||Jd. Botânico||1
 T. Pq. Oeste||Jd. Botânico||1
-
 708||T. Pq. Oeste / Perpétuo Socorro
 T. Pq. Oeste||Pq. Oeste Industrial||0
 Rua das Palmas||Pq. Oeste Industrial||0
@@ -8318,7 +8106,6 @@ Rodovia BR 060||Vl. Perpetuo Socorro||1
 Av. Pedro Ludovico||Vl. Perpetuo Socorro||1
 Rua do Bronze||Vl. Perpetuo Socorro||1
 T. Pq. Oeste||Vl. Perpetuo Socorro||1
-
 711||T. Pq. Oeste / Pq. Santa Rita
 T. Pq. Oeste||Pq. Oeste Industrial||0
 Rua do Amianto||Pq. Oeste Industrial||0
@@ -8343,7 +8130,6 @@ Rodovia BR 060||Pq. Santa Rita||1
 Av. Pedro Ludovico||Pq. Santa Rita||1
 Rua do Bronze||Pq. Santa Rita||1
 T. Pq. Oeste||Pq. Santa Rita||1
-
 130||T. Pq. Oeste / St. Alphaville
 T. Pq. Oeste||Pq. Oeste Industrial||0
 Rua das Palmas||Pq. Oeste Industrial||0
@@ -8381,7 +8167,6 @@ Rodovia BR 060||Res. Alphaville||1
 Av. Pedro Ludovico||Res. Alphaville||1
 Rua do Bronze||Res. Alphaville||1
 T. Pq. Oeste||Res. Alphaville||1
-
 308||T. Pq. Oeste / T. Dergo / Campinas
 T. Pq. Oeste||Pq. Oeste Industrial||0
 Rua do Bronze||Pq. Oeste Industrial||0
@@ -8429,7 +8214,6 @@ Av. Pedro Ludovico||St. dos Funcionários||1
 Rua do Petróleo||St. dos Funcionários||1
 Rua das Palmas||St. dos Funcionários||1
 T. Pq. Oeste||St. dos Funcionários||1
-
 263||T. Praça da Bíblia / PC Campus
 T. Pça. da Bíblia||St. Universitário||0
 Praça da Bíblia||St. Universitário||0
@@ -8480,7 +8264,6 @@ Av. Independência||Conj. Itatiaia||1
 Praça da Bíblia||Conj. Itatiaia||1
 Av. Anhanguera||Conj. Itatiaia||1
 T. Pça. da Bíblia||Conj. Itatiaia||1
-
 180||T. Rec. Bosque /  Centro / St. Universitário - Via Maria Dilce
 T. Rec. do Bosque||Rec. do Bosque||0
 Av. Mangalô||Rec. do Bosque||0
@@ -8547,7 +8330,6 @@ Rua Imperial||St. Universitário||1
 Av. Mangalô||St. Universitário||1
 Rua do Bosque||St. Universitário||1
 T. Rec. do Bosque||St. Universitário||1
-
 718||T. Rec. Bosque / Brisas da Mata
 T. Rec. do Bosque||Rec. do Bosque||0
 Rua do Bosque||Rec. do Bosque||0
@@ -8565,7 +8347,6 @@ Av. Tropical||Res. Brisas da Mata||1
 Av. Goiás Norte||Res. Brisas da Mata||1
 Av. Mangalô||Res. Brisas da Mata||1
 T. Rec. do Bosque||Res. Brisas da Mata||1
-
 305||T. Rec. Bosque / Campinas
 T. Rec. do Bosque||Rec. do Bosque||0
 Av. Mangalô||Rec. do Bosque||0
@@ -8652,7 +8433,6 @@ Rua 2A||St. Campinas||1
 Av. Industrial||St. Campinas||1
 Av. 24 de Outubro||St. Campinas||1
 Al. Progresso||St. Campinas||1
-
 013||T. Rec. Bosque / Centro - Eixo Norte
 T. Rec. do Bosque||Rec. do Bosque||0
 Av. Mangalô||Rec. do Bosque||0
@@ -8720,7 +8500,6 @@ Av. Goiás Norte||St. Central||1
 Av. Mangalô||St. Central||1
 Rua do Bosque||St. Central||1
 T. Rec. do Bosque||St. Central||1
-
 170||T. Rec. Bosque / Centro / St. Universitário
 T. Rec. do Bosque||Rec. do Bosque||0
 Av. Mangalô||Rec. do Bosque||0
@@ -8787,7 +8566,6 @@ Av. Goiás Norte||St. Universitário||1
 Av. Mangalô||St. Universitário||1
 Rua do Bosque||St. Universitário||1
 T. Rec. do Bosque||St. Universitário||1
-
 597||T. Rec. Bosque / Estrela D'Alva
 T. Rec. do Bosque||Rec. do Bosque||0
 Rua do Bosque||Rec. do Bosque||0
@@ -8802,7 +8580,6 @@ Rua 17 de Março||St. Estrela Dalva||1
 Av. Goiás Norte||St. Estrela Dalva||1
 Av. Mangalô||St. Estrela Dalva||1
 T. Rec. do Bosque||St. Estrela Dalva||1
-
 143||T. Rec. Bosque / Pq. Tremendão
 T. Rec. do Bosque||Rec. do Bosque||0
 Rua do Bosque||Rec. do Bosque||0
@@ -8825,7 +8602,6 @@ Rua 25 de Março||Jd. Curitiba III||1
 Rua Oriente||Jd. Curitiba III||1
 Av. Mangalô||Jd. Curitiba III||1
 T. Rec. do Bosque||Jd. Curitiba III||1
-
 595||T. Rec. Bosque / São Domingos
 T. Rec. do Bosque||Rec. do Bosque||0
 Rua do Bosque||Rec. do Bosque||0
@@ -8854,7 +8630,6 @@ Rua 17 de março||Bro. São Domingos||1
 Av. Goiás Norte||Bro. São Domingos||1
 Av. Mangalô||Bro. São Domingos||1
 T. Rec. do Bosque||Bro. São Domingos||1
-
 013-A||T. Rec. do Bosque / PC Balneário via Alto do Vale
 T. Rec. do Bosque||St. Rec. do Bosque||0
 Av. Mangalô||St. Rec. do Bosque||0
@@ -8876,7 +8651,6 @@ Rua Oriente||Jd. Balneário Meia Ponte||1
 Av. Mangalô||Jd. Balneário Meia Ponte||1
 Rua do Bosque||Jd. Balneário Meia Ponte||1
 T. Rec. do Bosque||Jd. Balneário Meia Ponte||1
-
 320||T. Rec. do Bosque / Unilever
 T. Rec. do Bosque||Recanto do Bosque||0
 Av. Mangalô||Recanto do Bosque||0
@@ -8913,7 +8687,6 @@ Av. Genésio Lima Brito||Ch. Retiro||1
 Av. Goiás Norte||Ch. Retiro||1
 Av. Mangalô||Ch. Retiro||1
 T. Rec. do Bosque||Ch. Retiro||1
-
 081||T. Sen. Canedo / Caldazinha
 T. Senador Canedo||Cj. Uirapurú||0
 Av. Dom Emanuel||Cj. Uirapurú||0
@@ -8945,7 +8718,6 @@ Rua 2||Caldazinha||1
 Av. Dom Emanuel||Caldazinha||1
 Rua 23||Caldazinha||1
 T. Senador Canedo||Caldazinha||1
-
 331||T. Senador Canedo / Boa Vista
 T. Senador Canedo||Conj. Uirapurú||0
 Av. Central||Conj. Uirapurú||0
@@ -8996,7 +8768,6 @@ Rua José F. Telles||Res. Boa Vista||1
 Rua 27||Res. Boa Vista||1
 Av. Central||Res. Boa Vista||1
 T. Senador Canedo||Res. Boa Vista||1
-
 330||T. Senador Canedo / Jd. das Oliveiras
 T. Senador Canedo||Conj. Uirapurú||0
 Av. Dom Emanuel||Conj. Uirapurú||0
@@ -9031,7 +8802,6 @@ GO-403||Pq. Alvorada||1
 Av. Dom Emanuel||Pq. Alvorada||1
 Av. Dom Emanuel||Pq. Alvorada||1
 T. Senador Canedo||Pq. Alvorada||1
-
 328||T. Senador Canedo / Jd. Flamboyant
 T. Senador Canedo||Conj. Uirapurú||0
 Av. Dom Emanuel||Conj. Uirapurú||0
@@ -9050,7 +8820,6 @@ Av. Dom Emanuel||Jd. Flamboyant||1
 Av. Dom Emanuel||Jd. Flamboyant||1
 Rua 23||Jd. Flamboyant||1
 T. Senador Canedo||Jd. Flamboyant||1
-
 327||T. Senador Canedo / Monte Azul
 T. Senador Canedo||Conj. Uirapurú||0
 Rua 23||Conj. Uirapurú||0
@@ -9095,7 +8864,6 @@ Av. Dom Emanuel||St. Monte Azul||1
 Av. Dom Emanuel||St. Monte Azul||1
 Rua 23||St. Monte Azul||1
 T. Senador Canedo||St. Monte Azul||1
-
 329||T. Senador Canedo / Res. Jd. Canedo II
 T. Senador Canedo||Conj. Uirapurú||0
 Av. Central||Conj. Uirapurú||0
@@ -9123,7 +8891,6 @@ Rua Monteiro Lobato||Res. Jd. Canedo II||1
 Rua Bariani Hortêncio||Res. Jd. Canedo II||1
 Av. Central||Res. Jd. Canedo II||1
 T. Senador Canedo||Res. Jd. Canedo II||1
-
 334||T. Senador Canedo / Vl. Galvão
 T. Senador Canedo||Conj. Uirapurú||0
 Rua 23||Conj. Uirapurú||0
@@ -9159,7 +8926,6 @@ Av. Dom Emanuel||Cond. Portugal||1
 Av. Dom Emanuel||Cond. Portugal||1
 Pç. Criativa||Cond. Portugal||1
 T. Senador Canedo||Cond. Portugal||1
-
 730||T. Trindade / Jd. Imperial
 T. Trindade||Vila Pai Eterno||0
 Rua 6 (Franscisco Paulo Ramos)||Vila Pai Eterno||0
@@ -9179,7 +8945,6 @@ Rua Major Manoel Alves||Res. Marise||1
 Rua 11||Res. Marise||1
 Rua 8||Res. Marise||1
 T. Trindade||Res. Marise||1
-
 729||T. Trindade / Sol Dourado
 T. Trindade||Vl. Pai Eterno||0
 Rua Franscisco Paulo Ramos||Vl. Pai Eterno||0
@@ -9214,7 +8979,6 @@ Rua Nicodemos Nery||Vl. dos Sonhos||1
 Rua 11||Vl. dos Sonhos||1
 Rua 8||Vl. dos Sonhos||1
 T. Trindade||Vl. dos Sonhos||1
-
 733||T. Trindade / St. Cristina
 T. Trindade||Vila Pai Eterno||0
 Rua Francisco Paulo Ramos||Vila Pai Eterno||0
@@ -9237,7 +9001,6 @@ Av. Manoel Monteiro||St. Ana Rosa||1
 Rua 11||St. Ana Rosa||1
 Rua 8||St. Ana Rosa||1
 T. Trindade||St. Ana Rosa||1
-
 732||T. Trindade / St. Samarah
 T. Trindade||Vila Pai Eterno||0
 Rua 6 (Francisco Paulo Ramos)||Vila Pai Eterno||0
@@ -9267,7 +9030,6 @@ Rua 26||St. Serra Dourada||1
 Rua 11||St. Serra Dourada||1
 Rua 8||St. Serra Dourada||1
 T. Trindade||St. Serra Dourada||1
-
 731||T. Trindade / Vida Nova
 T. Trindade||Vila Pai Eterno||0
 Rua 6 (Francisco Paulo Ramos)||Vila Pai Eterno||0
@@ -9309,7 +9071,6 @@ Av. Manoel Monteiro||St. Laguna Park||1
 Rua 11||St. Laguna Park||1
 Rua 8||St. Laguna Park||1
 T. Trindade||St. Laguna Park||1
-
 006||T. Veiga Jd. / Centro - Eixo 90
 T. Veiga Jd.||Pq. Veiga Jd.||0
 Av. Escultor Veiga Vale||Pq. Veiga Jd.||0
@@ -9349,7 +9110,6 @@ Rua J - 02||St. Central||1
 Rua Manoel Oliveira Lisboa||St. Central||1
 Rua Dona A. C. de Barros Amorim||St. Central||1
 T. Veiga Jd.||St. Central||1
-
 514||T. Veiga Jd. / Colina Azul I
 T. Veiga Jd.||Pq. Veiga Jd.||0
 Rua Antonieta C. Bro. Amorim||Pq. Veiga Jd.||0
@@ -9379,7 +9139,6 @@ Av. Diamante||Jd. Riviera||1
 Av. Veiga Vale||Jd. Riviera||1
 Av. Escultor Veiga Vale||Jd. Riviera||1
 T. Veiga Jd.||Jd. Riviera||1
-
 516||T. Veiga Jd. / Colina Azul II
 T. Veiga Jardim||Pq. Veiga Jardim||0
 Rua Antonieta C. Bro. Amorim||Pq. Veiga Jardim||0
@@ -9412,7 +9171,6 @@ Av. Diamante||St. Colina Azul||1
 Av. Veiga Vale||St. Colina Azul||1
 Av. Escultor Veiga Vale||St. Colina Azul||1
 T. Veiga Jardim||St. Colina Azul||1
-
 593||T. Veiga Jd. / Indep. Mansões
 T. Veiga Jardim||Pq. Veiga Jardim||0
 Rua Antonieta C. Bro. Amorim||Pq. Veiga Jardim||0
@@ -9444,7 +9202,6 @@ Rua Alumínio||Bro. Indep. Mansões||1
 Av. Veiga Vale||Bro. Indep. Mansões||1
 Av. Escultor Veiga Vale||Bro. Indep. Mansões||1
 T. Veiga Jardim||Bro. Indep. Mansões||1
-
 515||T. Veiga Jd. / Jd. Itapuã
 T. Veiga Jd.||Pq. Veiga Jd.||0
 Rua Antonieta C. Bro. Amorim||Pq. Veiga Jd.||0
@@ -9469,7 +9226,6 @@ Av. Sen. Antônio R. Caiado (Rua H-152)||St. Buriti Sereno||1
 Av. Sen. Antônio R. Caiado (Rua H-152)||St. Buriti Sereno||1
 Av. Escultor Veiga Vale||St. Buriti Sereno||1
 T. Veiga Jd.||St. Buriti Sereno||1
-
 503||T. Veiga Jd. / Jd. Tiradentes
 T. Veiga Jd.||Pq. Veiga Jd.||0
 Rua Antonieta C. Bro. Amorim||Pq. Veiga Jd.||0
@@ -9502,7 +9258,6 @@ Av. Sen. Antonio Ramos Caiado (H-152)||Jd. Tirandentes||1
 Av. Sen. Antonio Ramos Caiado (H-152)||Jd. Tirandentes||1
 Av. Escultor Veiga Vale||Jd. Tirandentes||1
 T. Veiga Jd.||Jd. Tirandentes||1
-
 519||T. Veiga Jd. / Nova Cidade
 T. Veiga Jd.||Pq. Veiga Jd.||0
 Rua Antonieta C. Bro. Amorim||Pq. Veiga Jd.||0
@@ -9543,7 +9298,6 @@ Rua Alumínio||Nova Cidade||1
 Av. Veiga Vale||Nova Cidade||1
 Av. Escultor Veiga Vale||Nova Cidade||1
 T. Veiga Jd.||Nova Cidade||1
-
 502||T. Veiga Jd. / Pólo Empresarial - Via Terra Prometida
 T. Veiga Jardim||Pq. Veiga Jardim||0
 Rua Antonieta C. B. Amorim||Pq. Veiga Jardim||0
@@ -9575,7 +9329,6 @@ Av. Prof. Alfredo de Castro||Pólo Empresarial de Goiás||1
 Av. Major Manoel A. S. Brandão||Pólo Empresarial de Goiás||1
 Av. Escultor Veiga Vale||Pólo Empresarial de Goiás||1
 T. Veiga Jardim||Pólo Empresarial de Goiás||1
-
 562||T. Veiga Jd. / Pontal Sul
 T. Veiga Jd.||Veiga Jd.||0
 Rua Antonieta C. Bro. Amorim||Veiga Jd.||0
@@ -9612,7 +9365,6 @@ Rua H-152||Pontal Sul||1
 Av. Sen. Antonio Ramos Caiado||Pontal Sul||1
 Av. Escultor Veiga Vale||Pontal Sul||1
 T. Veiga Jd.||Pontal Sul||1
-
 513||T. Veiga Jd. / Pq. das Nações
 T. Veiga Jd.||Veiga Jd.||0
 Rua Antonieta C. B. Amorim||Veiga Jd.||0
@@ -9643,7 +9395,6 @@ Av. Sen. Antônio R. Caiado (H-152)||Cond. das Nações||1
 Av. Sen. Antônio R. Caiado (H-152)||Cond. das Nações||1
 Av. Escultor Veiga Vale||Cond. das Nações||1
 T. Veiga Jd.||Cond. das Nações||1
-
 008||T. Veiga Jd. / Rodoviária - Eixo 85
 T. Veiga Jd.||Pq. Veiga Jd.||0
 Av. Escultor Veiga Vale||Pq. Veiga Jd.||0
@@ -9698,7 +9449,6 @@ Av. Escultor Veiga Vale||St. Central||1
 Rua Dr. Antônio M. Q. Lisboa||St. Central||1
 Rua Dona A. C. de Barros Amorim||St. Central||1
 T. Veiga Jd.||St. Central||1
-
 010||T. Veiga Jd./ Campinas - Eixo Mutirão
 T. Veiga Jd.||Pq. Veiga Jd.||0
 Av. Escultor Veiga Vale||Pq. Veiga Jd.||0
@@ -9764,7 +9514,6 @@ Av. Escultor Veiga Vale||St. Campinas||1
 Rua Dr. Antônio M. Q. Lisboa||St. Campinas||1
 Rua Dona A. C. de Barros Amorim||St. Campinas||1
 T. Veiga Jd.||St. Campinas||1
-
 598||T. Vera Cruz / Bandeirantes
 T. Vera Cruz||Conj. Vera Cruz I||0
 Av. Leopoldo de Bulhões||Conj. Vera Cruz I||0
@@ -9812,7 +9561,6 @@ Av. Trindade||St. Bandeirante||1
 GO-060 (Rodovia dos Romeiros)||St. Bandeirante||1
 Av. Leopoldo de Bulhões||St. Bandeirante||1
 T. Vera Cruz||St. Bandeirante||1
-
 701||T. Vera Cruz / Eldorado Oeste
 T. Vera Cruz||Conj. Vera Cruz I||0
 Av. Leopoldo de Bulhões||Conj. Vera Cruz I||0
@@ -9844,7 +9592,6 @@ Av. Gercina Bro. Teixeira||Res. Eldorado Oeste||1
 Av. Senador Canedo||Res. Eldorado Oeste||1
 Av. Leopoldo de Bulhões||Res. Eldorado Oeste||1
 T. Vera Cruz||Res. Eldorado Oeste||1
-
 700||T. Vera Cruz / Mariapólis - Via Decolores
 T. Vera Cruz||Vera Cruz I||0
 Av. Leopoldo de Bulhões||Vera Cruz I||0
@@ -9877,7 +9624,6 @@ Av. das Trindades||Area Rural||1
 GO-060 (Rodovia dos Romeiros)||Area Rural||1
 Av. Leopoldo de Bulhões||Area Rural||1
 T. Vera Cruz||Area Rural||1
-
 324||T. Vera Cruz / Monte Pascoal
 T. Vera Cruz||Conj. Vera Cruz I||0
 Av. Leopoldo de Bulhões||Conj. Vera Cruz I||0
@@ -9918,7 +9664,6 @@ Av. Argentina Monteiro||Res. Lírios do Campo||1
 Av. Alfredo Nasser||Res. Lírios do Campo||1
 Av. Leopoldo de Bulhões||Res. Lírios do Campo||1
 T. Vera Cruz||Res. Lírios do Campo||1
-
 145||T. Vera Cruz / Rec. das Garças
 T. Vera Cruz||Conj. Vera Cruz I||0
 Av. Leopoldo de Bulhões||Conj. Vera Cruz I||0
@@ -9957,7 +9702,6 @@ Av. Trindade||Rec. das Garças||1
 GO-060 (Rod. dos Romeiros)||Rec. das Garças||1
 Av. Leopoldo de Bulhões||Rec. das Garças||1
 T. Vera Cruz||Rec. das Garças||1
-
 307||T. Vera Cruz / T. Gyn Viva / T. Dergo
 T. Vera Cruz||Conj. Vera Cruz||0
 Av. Leopoldo de Bulhões||Conj. Vera Cruz||0
@@ -10036,7 +9780,6 @@ Av. Gercina Borges Teixeira||Bro. dos Aeroviários||1
 Av. Alfredo Nasser||Bro. dos Aeroviários||1
 Av. Leopoldo de Bulhões||Bro. dos Aeroviários||1
 T. Vera Cruz||Bro. dos Aeroviários||1
-
 053||T. Vera Cruz / T. Pe. Pelágio
 T. Vera Cruz||Conj. Vera Cruz I||0
 Av. Leopoldo de Bulhões||Conj. Vera Cruz I||0
@@ -10064,7 +9807,6 @@ Rodovia GO-060 (Rodovia dos Romeiros)||Br. Ipiranga||1
 Rodovia GO-060 (Rodovia dos Romeiros)||Br. Ipiranga||1
 Av. Leopoldo de Bulhões||Br. Ipiranga||1
 T. Vera Cruz||Br. Ipiranga||1
-
 312||T. Vila Brasília / Res. Cândido Queiroz
 T. Vila Brasilia||Vila Brasília||0
 Av. São Paulo||Vila Brasília||0
@@ -10115,7 +9857,6 @@ Pça. Igreja Mãos Postas||Res. Candido Queiroz||1
 Av. dos Colonizadores||Res. Candido Queiroz||1
 Av. São Paulo||Res. Candido Queiroz||1
 T. Vila Brasilia||Res. Candido Queiroz||1
-
 007||T. Vl. Brasília / Centro / Rodoviária
 T. Vl. Brasília||Vl. Brasília||0
 Av. São Paulo||Vl. Brasília||0
@@ -10146,7 +9887,6 @@ Av. 4ª  Radial||St. Norte Ferroviario||1
 Av. São Paulo||St. Norte Ferroviario||1
 Av. São Paulo||St. Norte Ferroviario||1
 T. Vl. Brasília||St. Norte Ferroviario||1
-
 504||T. Vl. Brasília / Jd. dos Buritis
 T. Vila Brasília||Vl. Brasilia||0
 Av. São Paulo||Vl. Brasilia||0
@@ -10176,7 +9916,6 @@ Av. São Paulo||Chác. São Pedro||1
 Av. São Paulo||Chác. São Pedro||1
 Av. São Paulo||Chác. São Pedro||1
 T. Vl. Brasília||Chác. São Pedro||1
-
 107||T. Vl. Brasília / T. Cruzeiro
 T. Vl. Brasília||Vl. Brasília||0
 Av. São Paulo||Vl. Brasília||0
@@ -10203,7 +9942,6 @@ Rua Potiguara||Jd. Nova Era||1
 Rua Potiguara||Jd. Nova Era||1
 Av. São Paulo||Jd. Nova Era||1
 T. Vl. Brasília||Jd. Nova Era||1
-
 211||T. Vl. Brasília / T. Cruzeiro - Via Vl. Alzira
 T. Vila Brasilia||Vila Brasília||0
 Av. São Paulo||Vila Brasília||0
@@ -10236,7 +9974,6 @@ Av. do Ipê||Jd. Nova Era||1
 Av. São Paulo||Jd. Nova Era||1
 Av. São Paulo||Jd. Nova Era||1
 T. Vila Brasilia||Jd. Nova Era||1
-
 011||T. Vl. Brasília / T. Pça "A" - Via T-02
 T. Vl. Brasília||Vl. Brasília||0
 Av. São Paulo||Vl. Brasília||0
@@ -10282,7 +10019,6 @@ Av. Transbrasiliana||St. Coimbra||1
 Av. São Paulo||St. Coimbra||1
 Av. São Paulo||St. Coimbra||1
 T. Vl. Brasilia||St. Coimbra||1
-
 210||T. Vl. Brasília / Vila Maria
 T. Vila Brasilia||Vila Brasília||0
 Av. São Paulo||Vila Brasília||0
@@ -10329,7 +10065,6 @@ Pça. Igreja Mãos Postas||Vila Maria||1
 Av. dos Colonizadores||Vila Maria||1
 Av. São Paulo||Vila Maria||1
 T. Vila Brasilia||Vila Maria||1
-
 020||T.Garavelo / T. da Bíblia - Via T. Isidória
 T. Garavelo||Jd. Tropical||0
 Av. Tropical||Jd. Tropical||0
@@ -10405,7 +10140,6 @@ Rodovia GO-040||St. Universitário||1
 Av Tropical||St. Universitário||1
 Pista Aux GO-040||St. Universitário||1
 T. Garavelo||St. Universitário||1
-
 601||Tiradentes / Centro via 85
 Av. das Nações (Rua C-50)||Jd. Tiradentes||0
 Rua 04||Jd. Tiradentes||0
@@ -10460,7 +10194,6 @@ Av. Uirapua||St. Central||1
 Av. 12||St. Central||1
 Av. das Nações||St. Central||1
 Av. das Nações (Rua C-50)||St. Central||1
-
 601.1||Tiradentes / Centro via 85
 Pça. do Trabalhador||St. Norte Ferroviário||0
 Av. Goiás||St. Norte Ferroviário||0
@@ -10517,7 +10250,6 @@ Rua 84||Jd. Tiradentes||1
 Pça. Cívica||Jd. Tiradentes||1
 Av. Tocantins||Jd. Tiradentes||1
 Av. Paranaiba||Jd. Tiradentes||1
-
 609.1||Tiradentes / T. Bandeiras
 T. Bandeiras||Jd. Europa||0
 Av. dos Alpes||Jd. Europa||0
@@ -10553,7 +10285,6 @@ Av. César Lates||Jd. Tiradentes||1
 Av. César Lates||Jd. Tiradentes||1
 Av. dos Alpes||Jd. Tiradentes||1
 T. Bandeiras||Jd. Tiradentes||1
-
 052||Vera Cruz / Campinas / Centro
 Av. Argentina Monteiro (Pç.)||Conj. Vera Cruz II||0
 Av. Argentina Monteiro||Conj. Vera Cruz II||0
@@ -10626,7 +10357,6 @@ Av. Frei Nazareno Confaloni||St. Central||1
 Av. Leopoldo de Bulhões||St. Central||1
 Av. Noel Rosa||St. Central||1
 Av. Argentina Monteiro||St. Central||1
-
 249||Vl. Água Branca / Centro
 Rua 14||Bro. Água Branca||0
 Rua 12||Bro. Água Branca||0
@@ -10651,4 +10381,3 @@ Av. C||St. Central||1
 Rua 7||St. Central||1
 Rua 11||St. Central||1
 Rua 14||St. Central||1
-
