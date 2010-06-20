@@ -1,0 +1,7 @@
+%ul
+- for place in @places_go
+  %li= "{#{place.bairro}} - #{place.logradouro}"
+
+%ul
+- for place in @places_back
+  %li= "{#{place.bairro}} - #{place.logradouro}"

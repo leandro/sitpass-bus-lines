@@ -16,7 +16,7 @@ class ImportBusLinesData < ActiveRecord::Migration
         )
       else
         bus_line = BusLine.create(
-          :code => split.first.strip.to_i,
+          :code => split.first.strip,
           :name => (name = split.last.strip)
         )
       end

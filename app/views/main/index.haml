@@ -1,0 +1,6 @@
+%ul
+  - for line in @linhas
+    %li
+      %a{:href => bus_line_path(line)}
+        %span= "[#{line.code}] -"
+        %span= line.name

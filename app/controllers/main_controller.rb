@@ -3,7 +3,13 @@ class MainController < ApplicationController
   layout 'base'
 
   def index
-    @linhas = BusLine.all
+
+    if request.post?
+      @linhas = BusLine.all
+    else
+      @linhas = BusLine.all
+    end
+
   end
 
 end
