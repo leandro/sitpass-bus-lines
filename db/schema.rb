@@ -31,6 +31,9 @@ ActiveRecord::Schema.define(:version => 20100614043448) do
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "name_slug"
   end
+
+  add_index "bus_lines", ["name_slug"], :name => "index_bus_lines_on_name_slug"
 
 end

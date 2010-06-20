@@ -1,7 +1,9 @@
 class MainController < ApplicationController
 
+  layout 'base'
+
   def index
-    puts "Cachaça é bom né".slugfy_words
+    @linhas = BusLine.all
   end
 
 end

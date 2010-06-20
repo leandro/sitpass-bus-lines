@@ -11,7 +11,4 @@
   - bodyattrs = @body_id ? {:id => @body_id} : {}
   %body{bodyattrs}
     #geral
-      #topo
-        %h1.notext
-          =link_to 'Orientec Negócios Empresariais e Imobiliários', :controller => 'principal'
-        %hr
+      = yield
