@@ -1,5 +1,7 @@
 class BusLinesController < ApplicationController
 
+  layout 'base'
+
   def show
     @bus_line = BusLine.find(params[:id])
     @bus_line_places = @bus_line.bus_line_places.all(:order => 'ida')

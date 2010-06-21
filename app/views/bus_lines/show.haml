@@ -1,7 +1,18 @@
-%ul
-- for place in @places_go
-  %li= "{#{place.bairro}} - #{place.logradouro}"
+.bloco-header
+  %h2= "Linha ##{@bus_line.code}: #{@bus_line.name}"
 
-%ul
-- for place in @places_back
-  %li= "{#{place.bairro}} - #{place.logradouro}"
+.bloco-ida
+  %h3 Trajeto de ida
+  %ul.trajetos
+    - for place in @places_go
+      %li
+        .bairro= place.bairro
+        .logradouro= place.logradouro
+
+.bloco-volta
+  %h3 Trajeto de volta
+  %ul.trajetos
+    - for place in @places_back
+      %li
+        .bairro= place.bairro
+        .logradouro= place.logradouro

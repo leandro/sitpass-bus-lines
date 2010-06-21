@@ -1,0 +1,26 @@
+* {margin:0;padding:0;}
+body {
+  background:#fff;
+  font:62.5% tahoma,verdana,sans-serif;
+}
+img {border-width:0;}
+option {padding:0 10px;}
+ul,ol {
+  list-style:none;
+}
+hr {display:none;}
+label {
+  display:block;
+}
+h1,h2,h3,h4,h5,h6 {font-family:georgia,arial,tahoma,verdana,sans-serif;}
+a {
+  color:#b00;
+}
+
+.bloco-header {margin:10px;}
+.bloco-ida {border:1px solid #fff;padding:10px;float:left;margin-right:20px;}
+.bloco-volta {border:1px solid #fff;padding:10px;float:left;}
+.bloco-ida h3,.bloco-volta h3 {font-size:1.6em;margin-bottom:10px;}
+.trajetos li {clear:both;font-size:1.4em;}
+.bairro {float:left;width:200px;}
+.logradouro {float:left;}
