@@ -4,10 +4,12 @@ class MainController < ApplicationController
 
   def index
 
-    if @show_list = !request.get?
+    terms = params[:q].to_s
+
+    if @show_list = terms.empty?
       @linhas = BusLine.all
     else
-      words = params[:q].to_s.downcase.slugfy_words.split(/\s+/)
+      words = terms.downcase.slugfy_words.split(/\s+/)
       wild_words = words.map {|e| "%#{e}%"}
       query = words.map {|e| "?"}.join(' OR name_slug LIKE ')
       @linhas = BusLine.all(:conditions => ["name_slug LIKE #{query}"] + wild_words)
