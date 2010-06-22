@@ -1,4 +1,12 @@
-%ul
+%form.search{:action => url_for(:root), :method => 'get'}
+  %label
+    %span Rua/Avenida/Bairro/Terminal/Etc e tal:
+    %input{:type => 'text', :name => 'q', :size => 50, :value => params[:q]}
+  .btn-holder
+    %input{:type => 'submit', :value => 'Pesquisar'}
+
+%h2= @show_list ? "Lista das Linhas de Ônibus de Goiânia" : "Resultado da busca para '#{params[:q]}':"
+%ul.linhas
   - for line in @linhas
     %li
       %a{:href => bus_line_path(line)}
