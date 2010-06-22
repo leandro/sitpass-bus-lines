@@ -7,7 +7,7 @@ class MainController < ApplicationController
     if @show_list = !request.get?
       @linhas = BusLine.all
     else
-      words = params[:q].downcase.slugfy_words.split(/\s+/)
+      words = params[:q].to_s.downcase.slugfy_words.split(/\s+/)
       wild_words = words.map {|e| "%#{e}%"}
       query = words.map {|e| "?"}.join(' OR name_slug LIKE ')
       @linhas = BusLine.all(:conditions => ["name_slug LIKE #{query}"] + wild_words)
