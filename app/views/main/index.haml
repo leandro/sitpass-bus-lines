@@ -5,9 +5,9 @@
   .btn-holder
     %input{:type => 'submit', :value => 'Pesquisar'}
 
-%h2= @show_list ? "Lista das Linhas de Ônibus de Goiânia" : "Resultado da busca para '#{params[:q]}':"
+%h2= @show_list ? "Lista das Linhas de Ônibus de Goiânia" : "Foram encontradas #{@lines.size} linha(s) para '#{params[:q]}':"
 %ul.linhas
-  - for line in @linhas
+  - for line in @lines
     %li
       %a{:href => bus_line_path(line)}
         %span= "[#{line.code}] -"
