@@ -5,10 +5,15 @@
   .btn-holder
     %input{:type => 'submit', :value => 'Pesquisar'}
 
-%h2= @show_list ? "Lista das Linhas de Ônibus de Goiânia" : "Foram encontradas #{@lines.size} linha(s) para '#{params[:q]}':"
-%ul.linhas
-  - for line in @lines
-    %li
-      %a{:href => bus_line_path(line)}
-        %span= "[#{line.code}] -"
-        %span= line.name
+.list-block
+  %h2= @show_list ? "Lista das Linhas de Ônibus em Goiânia" : "Foram encontradas #{@lines.size} linha(s) contendo #{@terms}"
+  - if @lines.any?
+    %ul.linhas
+      - for line in @lines
+        %li
+          %a{:href => bus_line_path(line)}
+            %span.line-code= line.code
+            %span.line-name= line.name
+            .clear
+  - else
+    %p.warning Não foi encontrada nenhuma linha.

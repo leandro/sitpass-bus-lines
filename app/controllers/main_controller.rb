@@ -41,6 +41,8 @@ class MainController < ApplicationController
 
       @lines.push(*@matched_lines)
       @lines = @lines.uniq.sort {|a,b| a.code <=> b.code}
+
+      @terms = words.map {|e| %Q{"#{e}"}}.join(' E ')
     end
 
   end

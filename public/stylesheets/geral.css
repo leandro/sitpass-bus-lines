@@ -1,28 +1,75 @@
 * {margin:0;padding:0;}
 body {
-  background:#fff;
-  font:62.5% tahoma,verdana,sans-serif;
+	background:#fff;
+	font:62.5% tahoma,verdana,sans-serif;
 }
 img {border-width:0;}
 option {padding:0 10px;}
 ul,ol {
-  list-style:none;
+	list-style:none;
 }
 hr {display:none;}
 label {
-  display:block;
+	display:block;
 }
 h1,h2,h3,h4,h5,h6 {font-family:georgia,arial,tahoma,verdana,sans-serif;}
 a {
-  color:#b00;
+	color:#b00;
 }
 
-.search {border:1px solid;font-size:1.5em;margin:20px auto;padding:10px;width:500px;}
+.search {
+	background:#ccc;
+	border:1px solid #555;
+	border-radius:8px;
+	box-shadow:3px 3px 2px #999;
+	font-size:1.5em;
+	margin:20px auto;
+	-moz-border-radius:8px;
+	-moz-box-shadow:3px 3px 2px #999;
+	padding:10px 20px;
+	-webkit-box-shadow:3px 3px 2px #999;
+	width:600px;
+}
 .search label {text-align:center;}
 .search label span {display:block;margin-bottom:10px;}
 .search .btn-holder {margin:15px;text-align:center;}
-.linhas {font-size:1.3em;padding:0 10px;}
-.linhas li {margin:10px 0;}
+
+.warning {color:#a30;font-size:1.4em;margin:15px 0;}
+
+.list-block {
+	background:#ccc;
+	border:1px solid #555;
+	border-radius:12px;
+	box-shadow:3px 3px 2px #999;
+	margin:10px auto;
+	-moz-border-radius:12px;
+	-moz-box-shadow:3px 3px 2px #999;
+	padding:10px 20px;
+	-webkit-box-shadow:3px 3px 2px #999;
+	width:600px;
+}
+.linhas {font-size:1.3em;}
+.linhas li {background:#222;border-radius:12px;margin:10px 0;-moz-border-radius:12px;padding:5px;}
+.linhas li:hover {background:#444;}
+.linhas li a {color:#fb0;text-decoration:none;}
+.linhas .line-code {
+	background:#fb0;
+	border-radius:12px;
+	color:#820;
+	-moz-border-radius:12px;
+	display:block;
+	float:left;
+	margin-right:7px;
+	padding:2px 5px;
+	text-align:center;
+	width:40px;
+}
+.linhas .line-name {
+	display:block;
+	float:left;
+	padding:2px 0;
+}
+
 .bloco-header {margin:10px;}
 .bloco-ida {border:1px solid #fff;padding:10px;float:left;margin-right:20px;}
 .bloco-volta {border:1px solid #fff;padding:10px;float:left;}
@@ -30,3 +77,5 @@ a {
 .trajetos li {clear:both;font-size:1.4em;}
 .bairro {float:left;width:200px;}
 .logradouro {float:left;}
+
+.clear {clear:both;}
