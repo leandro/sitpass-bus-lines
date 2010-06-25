@@ -35,6 +35,10 @@ a {
 .search .btn-holder {margin:15px;text-align:center;}
 
 .warning {color:#a30;font-size:1.4em;margin:15px 0;}
+.quick-filter {margin:15px auto;}
+#line-filter {font-size:1.2em;font-weight:700;width:593px;}
+.filter-inactive {color:#888;}
+.filter-focused {background-color:#fda;color:#930;font-weight:normal !important;}
 
 .list-block {
 	background:#ccc;

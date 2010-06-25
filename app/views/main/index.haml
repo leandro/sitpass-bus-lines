@@ -8,6 +8,8 @@
 .list-block
   %h2= @show_list ? "Lista das Linhas de Ônibus em Goiânia" : "Foram encontradas #{@lines.size} linha(s) contendo #{@terms}"
   - if @lines.any?
+    .quick-filter
+      %input#line-filter.filter-inactive{:type => 'text', :value => 'Filtragem rápida'}
     %ul.linhas
       - for line in @lines
         %li
