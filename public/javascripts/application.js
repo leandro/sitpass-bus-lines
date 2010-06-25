@@ -1,2 +1,5 @@
-// Place your application-specific JavaScript functions and classes here
-// This file is automatically included by javascript_include_tag :defaults
+// INI.core extensions
+$.expr[":"].econtains = function(obj, index, meta, stack){
+return (obj.textContent || obj.innerText || $(obj).text() || "").toLowerCase() == meta[3].toLowerCase();
+}
+// END.core extensions
